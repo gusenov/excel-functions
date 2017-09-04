@@ -1,0 +1,3301 @@
+{
+ functions: [
+  {
+   name: "ABS",
+   url: "https://support.office.com/en-us/article/Функция-ABS-3420200f-5628-4e8c-99da-c99d7c87713c",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает абсолютную величину числа.",
+   intro: ""
+  },
+  {
+   name: "НАКОПДОХОД",
+   url: "https://support.office.com/en-us/article/Функция-НАКОПДОХОД-fe45d089-6722-4fb3-9379-e1f911d8dc74",
+   category: "Финансовые функции.",
+   description: "Возвращает накопленный процент по ценным бумагам с периодической выплатой процентов.",
+   intro: ""
+  },
+  {
+   name: "НАКОПДОХОДПОГАШ",
+   url: "https://support.office.com/en-us/article/Функция-НАКОПДОХОДПОГАШ-f62f01f9-5754-4cc4-805b-0e70199328a7",
+   category: "Финансовые функции.",
+   description: "Возвращает накопленный процент по ценным бумагам с выплатой процентов в срок погашения.",
+   intro: ""
+  },
+  {
+   name: "ACOS",
+   url: "https://support.office.com/en-us/article/Функция-ACOS-cb73173f-d089-4582-afa1-76e5524b5d5b",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает арккосинус числа.",
+   intro: ""
+  },
+  {
+   name: "ACOSH",
+   url: "https://support.office.com/en-us/article/Функция-ACOSH-e3992cc1-103f-4e72-9f04-624b9ef5ebfe",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает гиперболический арккосинус числа.",
+   intro: ""
+  },
+  {
+   name: "ACOT",
+   url: "https://support.office.com/en-us/article/ACOT-dc7e5008-fe6b-402e-bdd6-2eea8383d905",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает арккотангенс числа.",
+   intro: "2013"
+  },
+  {
+   name: "ACOTH",
+   url: "https://support.office.com/en-us/article/ACOTH-cc49480f-f684-4171-9fc5-73e4e852300f",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает гиперболический арккотангенс числа.",
+   intro: "2013"
+  },
+  {
+   name: "АГРЕГАТ",
+   url: "https://support.office.com/en-us/article/АГРЕГАТ-43b9278e-6aa7-4f17-92b6-e19993fa26df",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает статистическое выражение списка или базы данных.",
+   intro: ""
+  },
+  {
+   name: "АДРЕС",
+   url: "https://support.office.com/en-us/article/АДРЕС-d0c26c0d-3991-446b-8de4-ab46431d4f89",
+   category: "Функции поиска и работы со ссылками.",
+   description: "Возвращает ссылку на отдельную ячейку листа в виде текста.",
+   intro: ""
+  },
+  {
+   name: "АМОРУМ",
+   url: "https://support.office.com/en-us/article/АМОРУМ-a14d0ca1-64a4-42eb-9b3d-b0dededf9e51",
+   category: "Финансовые функции.",
+   description: "Возвращает величину амортизации для каждого учетного периода, используя коэффициент амортизации.",
+   intro: ""
+  },
+  {
+   name: "АМОРУВ",
+   url: "https://support.office.com/en-us/article/АМОРУВ-7d417b45-f7f5-4dba-a0a5-3451a81079a8",
+   category: "Финансовые функции.",
+   description: "Возвращает величину амортизации для каждого учетного периода.",
+   intro: ""
+  },
+  {
+   name: "И",
+   url: "https://support.office.com/en-us/article/Функция-И-5f19b2e8-e1df-4408-897a-ce285a19e9d9",
+   category: "Логические функции.",
+   description: "Возвращает значение ИСТИНА, если все аргументы имеют значение ИСТИНА.",
+   intro: ""
+  },
+  {
+   name: "АРАБСКОЕ",
+   url: "https://support.office.com/en-us/article/АРАБСКОЕ-9a8da418-c17b-4ef9-a657-9370a30a674f",
+   category: "Математические и тригонометрические функции.",
+   description: "Преобразует римские числа в арабские в виде числа.",
+   intro: "2013"
+  },
+  {
+   name: "ОБЛАСТИ",
+   url: "https://support.office.com/en-us/article/Функция-ОБЛАСТИ-8392ba32-7a41-43b3-96b0-3695d2ec6152",
+   category: "Функции поиска и работы со ссылками.",
+   description: "Возвращает количество областей в ссылке.",
+   intro: ""
+  },
+  {
+   name: "ASC",
+   url: "https://support.office.com/en-us/article/Функция-ASC-0b6abf1c-c663-4004-a964-ebc00b723266",
+   category: "Текстовые функции.",
+   description: "Для языков с двухбайтовыми наборами знаков (например, катакана) преобразует полноширинные (двухбайтовые) знаки в полуширинные (однобайтовые).",
+   intro: ""
+  },
+  {
+   name: "ASIN",
+   url: "https://support.office.com/en-us/article/Функция-ASIN-81fb95e5-6d6f-48c4-bc45-58f955c6d347",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает арксинус числа.",
+   intro: ""
+  },
+  {
+   name: "ASINH",
+   url: "https://support.office.com/en-us/article/Функция-ASINH-4e00475a-067a-43cf-926a-765b0249717c",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает гиперболический арксинус числа.",
+   intro: ""
+  },
+  {
+   name: "ATAN",
+   url: "https://support.office.com/en-us/article/Функция-ATAN-50746fa8-630a-406b-81d0-4a2aed395543",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает арктангенс числа.",
+   intro: ""
+  },
+  {
+   name: "ATAN2",
+   url: "https://support.office.com/en-us/article/Функция-ATAN2-c04592ab-b9e3-4908-b428-c96b3a565033",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает арктангенс для заданных координат x и y.",
+   intro: ""
+  },
+  {
+   name: "ATANH",
+   url: "https://support.office.com/en-us/article/Функция-ATANH-3cd65768-0de7-4f1d-b312-d01c8c930d90",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает гиперболический арктангенс числа.",
+   intro: ""
+  },
+  {
+   name: "СРОТКЛ",
+   url: "https://support.office.com/en-us/article/Функция-СРОТКЛ-58fe8d65-2a84-4dc7-8052-f3f87b5c6639",
+   category: "Статистические функции.",
+   description: "Возвращает среднее арифметическое абсолютных значений отклонений точек данных от среднего.",
+   intro: ""
+  },
+  {
+   name: "СРЗНАЧ",
+   url: "https://support.office.com/en-us/article/Функция-СРЗНАЧ-047bac88-d466-426c-a32b-8f33eb960cf6",
+   category: "Статистические функции.",
+   description: "Возвращает среднее арифметическое аргументов.",
+   intro: ""
+  },
+  {
+   name: "СРЗНАЧА",
+   url: "https://support.office.com/en-us/article/Функция-СРЗНАЧА-f5f84098-d453-4f4c-bbba-3d2c66356091",
+   category: "Статистические функции.",
+   description: "Возвращает среднее арифметическое аргументов, включая числа, текст и логические значения.",
+   intro: ""
+  },
+  {
+   name: "СРЗНАЧЕСЛИ",
+   url: "https://support.office.com/en-us/article/Функция-СРЗНАЧЕСЛИ-faec8e2e-0dec-4308-af69-f5576d8ac642",
+   category: "Статистические функции.",
+   description: "Возвращает среднее значение (среднее арифметическое) всех ячеек в диапазоне, которые удовлетворяют заданному условию.",
+   intro: ""
+  },
+  {
+   name: "СРЗНАЧЕСЛИМН",
+   url: "https://support.office.com/en-us/article/Функция-СРЗНАЧЕСЛИМН-48910c45-1fc0-4389-a028-f7c5c3001690",
+   category: "Статистические функции.",
+   description: "Возвращает среднее значение (среднее арифметическое) всех ячеек, которые удовлетворяют нескольким условиям.",
+   intro: ""
+  },
+  {
+   name: "БАТТЕКСТ",
+   url: "https://support.office.com/en-us/article/Функция-БАТТЕКСТ-5ba4d0b4-abd3-4325-8d22-7a92d59aab9c",
+   category: "Текстовые функции.",
+   description: "Преобразует число в текст, используя денежный формат ß (БАТ).",
+   intro: ""
+  },
+  {
+   name: "ОСНОВАНИЕ",
+   url: "https://support.office.com/en-us/article/Функция-ОСНОВАНИЕ-2ef61411-aee9-4f29-a811-1c42456c6342",
+   category: "Математические и тригонометрические функции.",
+   description: "Преобразует число в текстовое представление с заданным основанием (базой).",
+   intro: ""
+  },
+  {
+   name: "БЕССЕЛЬ.I",
+   url: "https://support.office.com/en-us/article/Функция-БЕССЕЛЬI-8d33855c-9a8d-444b-98e0-852267b1c0df",
+   category: "Инженерные функции.",
+   description: "Возвращает модифицированную функцию Бесселя In(x).",
+   intro: ""
+  },
+  {
+   name: "БЕССЕЛЬ.J",
+   url: "https://support.office.com/en-us/article/Функция-БЕССЕЛЬJ-839cb181-48de-408b-9d80-bd02982d94f7",
+   category: "Инженерные функции.",
+   description: "Возвращает функцию Бесселя Jn(x).",
+   intro: ""
+  },
+  {
+   name: "БЕССЕЛЬ.K",
+   url: "https://support.office.com/en-us/article/Функция-БЕССЕЛЬK-606d11bc-06d3-4d53-9ecb-2803e2b90b70",
+   category: "Инженерные функции.",
+   description: "Возвращает модифицированную функцию Бесселя Kn(x).",
+   intro: ""
+  },
+  {
+   name: "БЕССЕЛЬ.Y",
+   url: "https://support.office.com/en-us/article/Функция-БЕССЕЛЬY-f3a356b3-da89-42c3-8974-2da54d6353a2",
+   category: "Инженерные функции.",
+   description: "Возвращает функцию Бесселя Yn(x).",
+   intro: ""
+  },
+  {
+   name: "БЕТАРАСП",
+   url: "https://support.office.com/en-us/article/Функция-БЕТАРАСП-49f1b9a9-a5da-470f-8077-5f1730b5fd47",
+   category: "Функции совместимости.",
+   description: "Возвращает интегральную функцию бета-распределения.",
+   intro: ""
+  },
+  {
+   name: "БЕТА.РАСП",
+   url: "https://support.office.com/en-us/article/БЕТАРАСП-11188c9c-780a-42c7-ba43-9ecb5a878d31",
+   category: "Статистические функции.",
+   description: "Возвращает интегральную функцию бета-распределения.",
+   intro: "2010"
+  },
+  {
+   name: "БЕТАОБР",
+   url: "https://support.office.com/en-us/article/Функция-БЕТАОБР-8b914ade-b902-43c1-ac9c-c05c54f10d6c",
+   category: "Функции совместимости.",
+   description: "Возвращает обратную интегральную функцию указанного бета-распределения.",
+   intro: ""
+  },
+  {
+   name: "БЕТА.ОБР",
+   url: "https://support.office.com/en-us/article/БЕТАОБР-e84cb8aa-8df0-4cf6-9892-83a341d252eb",
+   category: "Статистические функции.",
+   description: "Возвращает обратную интегральную функцию указанного бета-распределения.",
+   intro: "2010"
+  },
+  {
+   name: "ДВ.В.ДЕС",
+   url: "https://support.office.com/en-us/article/Функция-ДВВДЕС-63905b57-b3a0-453d-99f4-647bb519cd6c",
+   category: "Инженерные функции.",
+   description: "Преобразует двоичное число в десятичное.",
+   intro: ""
+  },
+  {
+   name: "ДВ.В.ШЕСТН",
+   url: "https://support.office.com/en-us/article/Функция-ДВВШЕСТН-0375e507-f5e5-4077-9af8-28d84f9f41cc",
+   category: "Инженерные функции.",
+   description: "Преобразует двоичное число в шестнадцатеричное.",
+   intro: ""
+  },
+  {
+   name: "ДВ.В.ВОСЬМ",
+   url: "https://support.office.com/en-us/article/Функция-ДВВВОСЬМ-0a4e01ba-ac8d-4158-9b29-16c25c4c23fd",
+   category: "Инженерные функции.",
+   description: "Преобразует двоичное число в восьмеричное.",
+   intro: ""
+  },
+  {
+   name: "БИНОМРАСП",
+   url: "https://support.office.com/en-us/article/Функция-БИНОМРАСП-506a663e-c4ca-428d-b9a8-05583d68789c",
+   category: "Функции совместимости.",
+   description: "Возвращает отдельное значение вероятности биномиального распределения.",
+   intro: ""
+  },
+  {
+   name: "БИНОМ.РАСП",
+   url: "https://support.office.com/en-us/article/БИНОМРАСП-c5ae37b6-f39c-4be2-94c2-509a1480770c",
+   category: "Статистические функции.",
+   description: "Возвращает отдельное значение вероятности биномиального распределения.",
+   intro: "2010"
+  },
+  {
+   name: "БИНОМ.РАСП.ДИАП",
+   url: "https://support.office.com/en-us/article/БИНОМРАСПДИАП-17331329-74c7-4053-bb4c-6653a7421595",
+   category: "Статистические функции.",
+   description: "Возвращает вероятность пробного результата с помощью биномиального распределения.",
+   intro: "2013"
+  },
+  {
+   name: "БИНОМ.ОБР",
+   url: "https://support.office.com/en-us/article/БИНОМОБР-80a0370c-ada6-49b4-83e7-05a91ba77ac9",
+   category: "Статистические функции.",
+   description: "Возвращает наименьшее значение, для которого интегральное биномиальное распределение меньше заданного значения или равно ему.",
+   intro: "2010"
+  },
+  {
+   name: "БИТ.И",
+   url: "https://support.office.com/en-us/article/БИТИ-8a2be3d7-91c3-4b48-9517-64548008563a",
+   category: "Инженерные функции.",
+   description: "Возвращает результат операции поразрядного И для двух чисел.",
+   intro: "2013"
+  },
+  {
+   name: "БИТ.СДВИГЛ",
+   url: "https://support.office.com/en-us/article/БИТСДВИГЛ-c55bb27e-cacd-4c7c-b258-d80861a03c9c",
+   category: "Инженерные функции.",
+   description: "Возвращает число со сдвигом влево на указанное число бит.",
+   intro: "2013"
+  },
+  {
+   name: "БИТ.ИЛИ",
+   url: "https://support.office.com/en-us/article/БИТИЛИ-f6ead5c8-5b98-4c9e-9053-8ad5234919b2",
+   category: "Инженерные функции.",
+   description: "Возвращает результат операции поразрядного ИЛИ для двух чисел.",
+   intro: "2013"
+  },
+  {
+   name: "БИТ.СДВИГП",
+   url: "https://support.office.com/en-us/article/БИТСДВИГП-274d6996-f42c-4743-abdb-4ff95351222c",
+   category: "Инженерные функции.",
+   description: "Возвращает число со сдвигом вправо на указанное число бит.",
+   intro: "2013"
+  },
+  {
+   name: "БИТ.ИСКЛИЛИ",
+   url: "https://support.office.com/en-us/article/БИТИСКЛИЛИ-c81306a1-03f9-4e89-85ac-b86c3cba10e4",
+   category: "Инженерные функции.",
+   description: "Возвращает результат операции поразрядного исключающего ИЛИ для двух чисел.",
+   intro: "2013"
+  },
+  {
+   name: "ВЫЗВАТЬ",
+   url: "https://support.office.com/en-us/article/Функция-ВЫЗВАТЬ-32d58445-e646-4ffd-8d5e-b45077a5e995",
+   category: "Функции надстройки и автоматизации.",
+   description: "Вызывает процедуру из библиотеки динамической компоновки или кодовый ресурс.",
+   intro: ""
+  },
+  {
+   name: "ОКРВВЕРХ",
+   url: "https://support.office.com/en-us/article/Функция-ОКРВВЕРХ-0a5cd7c8-0720-4f0a-bd2c-c943e510899f",
+   category: "Математические и тригонометрические функции.",
+   description: "Округляет число до ближайшего целого или кратного.",
+   intro: ""
+  },
+  {
+   name: "ОКРВВЕРХ.МАТ",
+   url: "https://support.office.com/en-us/article/ОКРВВЕРХМАТ-80f95d2f-b499-4eee-9f16-f795a8e306c8",
+   category: "Математические и тригонометрические функции.",
+   description: "Округляет число в большую сторону до ближайшего целого или кратного.",
+   intro: "2013"
+  },
+  {
+   name: "ОКРВВЕРХ.ТОЧН",
+   url: "https://support.office.com/en-us/article/Функция-ОКРВВЕРХТОЧН-f366a774-527a-4c92-ba49-af0a196e66cb",
+   category: "Математические и тригонометрические функции.",
+   description: "Округляет число в большую сторону (независимо от его знака) до ближайшего целого или кратного.",
+   intro: ""
+  },
+  {
+   name: "ЯЧЕЙКА",
+   url: "https://support.office.com/en-us/article/Функция-ЯЧЕЙКА-51bd39a5-f338-4dbe-a33f-955d67c2b2cf",
+   category: "Информационные функции.",
+   description: "Возвращает сведения о формате, расположении или содержимом ячейки.",
+   intro: ""
+  },
+  {
+   name: "СИМВОЛ",
+   url: "https://support.office.com/en-us/article/Функция-СИМВОЛ-bbd249c8-b36e-4a91-8017-1c133f9b837a",
+   category: "Текстовые функции.",
+   description: "Возвращает символ с заданным кодом.",
+   intro: ""
+  },
+  {
+   name: "ХИ2РАСП",
+   url: "https://support.office.com/en-us/article/Функция-ХИ2РАСП-c90d0fbc-5b56-4f5f-ab57-34af1bf6897e",
+   category: "Функции совместимости.",
+   description: "Возвращает одностороннюю вероятность распределения хи-квадрат.",
+   intro: ""
+  },
+  {
+   name: "ХИ2ОБР",
+   url: "https://support.office.com/en-us/article/Функция-ХИ2ОБР-cfbea3f6-6e4f-40c9-a87f-20472e0512af",
+   category: "Функции совместимости.",
+   description: "Возвращает обратное значение односторонней вероятности распределения хи-квадрат.",
+   intro: ""
+  },
+  {
+   name: "ХИ2ТЕСТ",
+   url: "https://support.office.com/en-us/article/Функция-ХИ2ТЕСТ-981ff871-b694-4134-848e-38ec704577ac",
+   category: "Функции совместимости.",
+   description: "Возвращает тест на независимость.",
+   intro: ""
+  },
+  {
+   name: "ХИ2.РАСП",
+   url: "https://support.office.com/en-us/article/ХИ2РАСП-8486b05e-5c05-4942-a9ea-f6b341518732",
+   category: "Статистические функции.",
+   description: "Возвращает интегральную функцию плотности бета-вероятности.",
+   intro: "2010"
+  },
+  {
+   name: "ХИ2.РАСП.ПХ",
+   url: "https://support.office.com/en-us/article/ХИ2РАСППХ-dc4832e8-ed2b-49ae-8d7c-b28d5804c0f2",
+   category: "Статистические функции.",
+   description: "Возвращает одностороннюю вероятность распределения хи-квадрат.",
+   intro: "2010"
+  },
+  {
+   name: "ХИ2.ОБР",
+   url: "https://support.office.com/en-us/article/ХИ2ОБР-400db556-62b3-472d-80b3-254723e7092f",
+   category: "Статистические функции.",
+   description: "Возвращает интегральную функцию плотности бета-вероятности.",
+   intro: "2010"
+  },
+  {
+   name: "ХИ2.ОБР.ПХ",
+   url: "https://support.office.com/en-us/article/ХИ2ОБРПХ-435b5ed8-98d5-4da6-823f-293e2cbc94fe",
+   category: "Статистические функции.",
+   description: "Возвращает обратное значение односторонней вероятности распределения хи-квадрат.",
+   intro: "2010"
+  },
+  {
+   name: "ХИ2.ТЕСТ",
+   url: "https://support.office.com/en-us/article/ХИ2ТЕСТ-2e8a7861-b14a-4985-aa93-fb88de3f260f",
+   category: "Статистические функции.",
+   description: "Возвращает тест на независимость.",
+   intro: "2010"
+  },
+  {
+   name: "ВЫБОР",
+   url: "https://support.office.com/en-us/article/Функция-ВЫБОР-fc5c184f-cb62-4ec7-a46e-38653b98f5bc",
+   category: "Функции поиска и работы со ссылками.",
+   description: "Выбирает значение из списка значений.",
+   intro: ""
+  },
+  {
+   name: "ПЕЧСИМВ",
+   url: "https://support.office.com/en-us/article/Функция-ПЕЧСИМВ-26f3d7c5-475f-4a9c-90e5-4b8ba987ba41",
+   category: "Текстовые функции.",
+   description: "Удаляет из текста все непечатаемые символы.",
+   intro: ""
+  },
+  {
+   name: "КОДСИМВ",
+   url: "https://support.office.com/en-us/article/Функция-КОДСИМВ-c32b692b-2ed0-4a04-bdd9-75640144b928",
+   category: "Текстовые функции.",
+   description: "Возвращает числовой код первого знака в текстовой строке.",
+   intro: ""
+  },
+  {
+   name: "СТОЛБЕЦ",
+   url: "https://support.office.com/en-us/article/Функция-СТОЛБЕЦ-44e8c754-711c-4df3-9da4-47a55042554b",
+   category: "Функции поиска и работы со ссылками.",
+   description: "Возвращает номер столбца, на который указывает ссылка.",
+   intro: ""
+  },
+  {
+   name: "ЧИСЛСТОЛБ",
+   url: "https://support.office.com/en-us/article/Функция-ЧИСЛСТОЛБ-4e8e7b4e-e603-43e8-b177-956088fa48ca",
+   category: "Функции поиска и работы со ссылками.",
+   description: "Возвращает количество столбцов в ссылке.",
+   intro: ""
+  },
+  {
+   name: "ЧИСЛКОМБ",
+   url: "https://support.office.com/en-us/article/Функция-ЧИСЛКОМБ-12a3f276-0a21-423a-8de6-06990aaf638a",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает количество комбинаций для заданного числа объектов.",
+   intro: ""
+  },
+  {
+   name: "ЧИСЛКОМБА",
+   url: "https://support.office.com/en-us/article/ЧИСЛКОМБА-efb49eaa-4f4c-4cd2-8179-0ddfcf9d035d",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает количество комбинаций с повторами для заданного числа элементов.",
+   intro: "2013"
+  },
+  {
+   name: "КОМПЛЕКСН",
+   url: "https://support.office.com/en-us/article/Функция-КОМПЛЕКСН-f0b8f3a9-51cc-4d6d-86fb-3a9362fa4128",
+   category: "Инженерные функции.",
+   description: "Преобразует коэффициенты при вещественной и мнимой частях комплексного числа в комплексное число.",
+   intro: ""
+  },
+  {
+   name: "СЦЕП",
+   url: "https://support.office.com/en-us/article/СЦЕП-9b1a9a3f-94ff-41af-9736-694cbd6b4ca2",
+   category: "Текстовые функции.",
+   description: "Объединяет текст из нескольких диапазонов или строк, но не добавляет разделитель или аргументы IgnoreEmpty.",
+   intro: "2016"
+  },
+  {
+   name: "СЦЕПИТЬ",
+   url: "https://support.office.com/en-us/article/Функция-СЦЕПИТЬ-8f8ae884-2ca8-4f7a-b093-75d702bea31d",
+   category: "Текстовые функции.",
+   description: "Объединяет несколько текстовых элементов в один.",
+   intro: ""
+  },
+  {
+   name: "ДОВЕРИТ",
+   url: "https://support.office.com/en-us/article/Функция-ДОВЕРИТ-75ccc007-f77c-4343-bc14-673642091ad6",
+   category: "Функции совместимости.",
+   description: "Возвращает доверительный интервал для среднего генеральной совокупности.",
+   intro: ""
+  },
+  {
+   name: "ДОВЕРИТ.НОРМ",
+   url: "https://support.office.com/en-us/article/ДОВЕРИТНОРМ-7cec58a6-85bb-488d-91c3-63828d4fbfd4",
+   category: "Статистические функции.",
+   description: "Возвращает доверительный интервал для среднего генеральной совокупности.",
+   intro: "2010"
+  },
+  {
+   name: "ДОВЕРИТ.СТЬЮДЕНТ",
+   url: "https://support.office.com/en-us/article/ДОВЕРИТСТЬЮДЕНТ-e8eca395-6c3a-4ba9-9003-79ccc61d3c53",
+   category: "Статистические функции.",
+   description: "Возвращает доверительный интервал для среднего генеральной совокупности, используя t-распределение Стьюдента.",
+   intro: "2010"
+  },
+  {
+   name: "ПРЕОБР",
+   url: "https://support.office.com/en-us/article/Функция-ПРЕОБР-d785bef1-808e-4aac-bdcd-666c810f9af2",
+   category: "Инженерные функции.",
+   description: "Преобразует число из одной системы мер в другую.",
+   intro: ""
+  },
+  {
+   name: "КОРРЕЛ",
+   url: "https://support.office.com/en-us/article/Функция-КОРРЕЛ-995dcef7-0c0a-4bed-a3fb-239d7b68ca92",
+   category: "Статистические функции.",
+   description: "Возвращает коэффициент корреляции между двумя множествами данных.",
+   intro: ""
+  },
+  {
+   name: "COS",
+   url: "https://support.office.com/en-us/article/Функция-COS-0fb808a5-95d6-4553-8148-22aebdce5f05",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает косинус числа.",
+   intro: ""
+  },
+  {
+   name: "COSH",
+   url: "https://support.office.com/en-us/article/Функция-COSH-e460d426-c471-43e8-9540-a57ff3b70555",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает гиперболический косинус числа.",
+   intro: ""
+  },
+  {
+   name: "COT",
+   url: "https://support.office.com/en-us/article/COT-c446f34d-6fe4-40dc-84f8-cf59e5f5e31a",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает гиперболический косинус числа.",
+   intro: "2013"
+  },
+  {
+   name: "COTH",
+   url: "https://support.office.com/en-us/article/COTH-2e0b4cb6-0ba0-403e-aed4-deaa71b49df5",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает котангенс угла.",
+   intro: "2013"
+  },
+  {
+   name: "СЧЁТ",
+   url: "https://support.office.com/en-us/article/Функция-СЧЁТ-a59cd7fc-b623-4d93-87a4-d23bf411294c",
+   category: "Статистические функции.",
+   description: "Подсчитывает количество чисел в списке аргументов.",
+   intro: ""
+  },
+  {
+   name: "СЧЁТЗ",
+   url: "https://support.office.com/en-us/article/Функция-СЧЁТЗ-7dc98875-d5c1-46f1-9a82-53f3219e2509",
+   category: "Статистические функции.",
+   description: "Подсчитывает количество значений в списке аргументов.",
+   intro: ""
+  },
+  {
+   name: "СЧИТАТЬПУСТОТЫ",
+   url: "https://support.office.com/en-us/article/Функция-СЧИТАТЬПУСТОТЫ-6a92d772-675c-4bee-b346-24af6bd3ac22",
+   category: "Статистические функции.",
+   description: "Подсчитывает количество пустых ячеек в диапазоне.",
+   intro: ""
+  },
+  {
+   name: "СЧЁТЕСЛИ",
+   url: "https://support.office.com/en-us/article/Функция-СЧЁТЕСЛИ-e0de10c6-f885-4e71-abb4-1f464816df34",
+   category: "Статистические функции.",
+   description: "Подсчитывает количество ячеек в диапазоне, удовлетворяющих заданному условию.",
+   intro: ""
+  },
+  {
+   name: "СЧЁТЕСЛИМН",
+   url: "https://support.office.com/en-us/article/Функция-СЧЁТЕСЛИМН-dda3dc6e-f74e-4aee-88bc-aa8c2a866842",
+   category: "Статистические функции.",
+   description: "Подсчитывает количество ячеек внутри диапазона, удовлетворяющих нескольким условиям.",
+   intro: ""
+  },
+  {
+   name: "ДНЕЙКУПОНДО",
+   url: "https://support.office.com/en-us/article/Функция-ДНЕЙКУПОНДО-eb9a8dfb-2fb2-4c61-8e5d-690b320cf872",
+   category: "Финансовые функции.",
+   description: "Возвращает количество дней от начала действия купона до даты соглашения.",
+   intro: ""
+  },
+  {
+   name: "ДНЕЙКУПОН",
+   url: "https://support.office.com/en-us/article/Функция-ДНЕЙКУПОН-cc64380b-315b-4e7b-950c-b30b0a76f671",
+   category: "Финансовые функции.",
+   description: "Возвращает количество дней в периоде купона, который содержит дату расчета.",
+   intro: ""
+  },
+  {
+   name: "ДНЕЙКУПОНПОСЛЕ",
+   url: "https://support.office.com/en-us/article/Функция-ДНЕЙКУПОНПОСЛЕ-5ab3f0b2-029f-4a8b-bb65-47d525eea547",
+   category: "Финансовые функции.",
+   description: "Возвращает количество дней от даты расчета до срока следующего купона.",
+   intro: ""
+  },
+  {
+   name: "ДАТАКУПОНПОСЛЕ",
+   url: "https://support.office.com/en-us/article/Функция-ДАТАКУПОНПОСЛЕ-fd962fef-506b-4d9d-8590-16df5393691f",
+   category: "Финансовые функции.",
+   description: "Возвращает порядковый номер даты следующего купона после даты соглашения.",
+   intro: ""
+  },
+  {
+   name: "ЧИСЛКУПОН",
+   url: "https://support.office.com/en-us/article/Функция-ЧИСЛКУПОН-a90af57b-de53-4969-9c99-dd6139db2522",
+   category: "Финансовые функции.",
+   description: "Возвращает количество купонов между датой соглашения и сроком вступления в силу.",
+   intro: ""
+  },
+  {
+   name: "ДАТАКУПОНДО",
+   url: "https://support.office.com/en-us/article/Функция-ДАТАКУПОНДО-2eb50473-6ee9-4052-a206-77a9a385d5b3",
+   category: "Финансовые функции.",
+   description: "Возвращает порядковый номер даты предыдущего купона до даты соглашения.",
+   intro: ""
+  },
+  {
+   name: "КОВАР",
+   url: "https://support.office.com/en-us/article/Функция-КОВАР-50479552-2c03-4daf-bd71-a5ab88b2db03",
+   category: "Функции совместимости.",
+   description: "Возвращает ковариацию, среднее произведений парных отклонений.",
+   intro: ""
+  },
+  {
+   name: "КОВАРИАЦИЯ.Г",
+   url: "https://support.office.com/en-us/article/КОВАРИАЦИЯГ-6f0e1e6d-956d-4e4b-9943-cfef0bf9edfc",
+   category: "Статистические функции.",
+   description: "Возвращает значение ковариации, среднее произведений парных отклонений.",
+   intro: "2010"
+  },
+  {
+   name: "КОВАРИАЦИЯ.В",
+   url: "https://support.office.com/en-us/article/КОВАРИАЦИЯВ-0a539b74-7371-42aa-a18f-1f5320314977",
+   category: "Статистические функции.",
+   description: "Возвращает значение ковариации выборки, среднее попарных произведений отклонений для всех точек данных в двух наборах данных.",
+   intro: "2010"
+  },
+  {
+   name: "КРИТБИНОМ",
+   url: "https://support.office.com/en-us/article/Функция-КРИТБИНОМ-eb6b871d-796b-4d21-b69b-e4350d5f407b",
+   category: "Функции совместимости.",
+   description: "Возвращает наименьшее значение, для которого интегральное биномиальное распределение меньше заданного значения или равно ему.",
+   intro: ""
+  },
+  {
+   name: "CSC",
+   url: "https://support.office.com/en-us/article/CSC-07379361-219a-4398-8675-07ddc4f135c1",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает косеканс угла.",
+   intro: "2013"
+  },
+  {
+   name: "CSCH",
+   url: "https://support.office.com/en-us/article/CSCH-f58f2c22-eb75-4dd6-84f4-a503527f8eeb",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает гиперболический косеканс угла.",
+   intro: "2013"
+  },
+  {
+   name: "КУБЭЛЕМЕНТКИП",
+   url: "https://support.office.com/en-us/article/Функция-КУБЭЛЕМЕНТКИП-744608bf-2c62-42cd-b67a-a56109f4b03b",
+   category: "Функции кубов.",
+   description: "Возвращает имя, свойство и меру ключевого показателя эффективности (КПЭ) и отображает имя и свойство в ячейке. КПЭ является измеримым показателем, таким как ежемесячная валовая прибыль или ежеквартальная текучесть кадров, и используется для контроля эффективности работы организации.",
+   intro: ""
+  },
+  {
+   name: "КУБЭЛЕМЕНТ",
+   url: "https://support.office.com/en-us/article/Функция-КУБЭЛЕМЕНТ-0f6a15b9-2c18-4819-ae89-e1b5c8b398ad",
+   category: "Функции кубов.",
+   description: "Возвращает элемент или кортеж из иерархии куба. С помощью этой функции можно проверять, существует ли в кубе тот или иной элемент или кортеж.",
+   intro: ""
+  },
+  {
+   name: "КУБСВОЙСТВОЭЛЕМЕНТА",
+   url: "https://support.office.com/en-us/article/Функция-КУБСВОЙСТВОЭЛЕМЕНТА-001e57d6-b35a-49e5-abcd-05ff599e8951",
+   category: "Функции кубов.",
+   description: "Возвращает значение свойства элемента из куба. Используется для подтверждения того, что имя элемента внутри куба существует, и для возвращения определенного свойства для этого элемента.",
+   intro: ""
+  },
+  {
+   name: "КУБПОРЭЛЕМЕНТ",
+   url: "https://support.office.com/en-us/article/Функция-КУБПОРЭЛЕМЕНТ-07efecde-e669-4075-b4bf-6b40df2dc4b3",
+   category: "Функции кубов.",
+   description: "Возвращает n-й, или ранжированный, элемент в множестве. Используется для возвращения одного или нескольких элементов в множестве, например лучшего продавца или 10 лучших студентов.",
+   intro: ""
+  },
+  {
+   name: "КУБМНОЖ",
+   url: "https://support.office.com/en-us/article/Функция-КУБМНОЖ-5b2146bd-62d6-4d04-9d8f-670e993ee1d9",
+   category: "Функции кубов.",
+   description: "Определяет вычисленное множество элементов или кортежей путем пересылки установленного выражения в куб на сервере, который формирует множество, а затем возвращает его в Microsoft Office Excel.",
+   intro: ""
+  },
+  {
+   name: "КУБЧИСЛОЭЛМНОЖ",
+   url: "https://support.office.com/en-us/article/Функция-КУБЧИСЛОЭЛМНОЖ-c4c2a438-c1ff-4061-80fe-982f2d705286",
+   category: "Функции кубов.",
+   description: "Возвращает число элементов в множестве.",
+   intro: ""
+  },
+  {
+   name: "КУБЗНАЧЕНИЕ",
+   url: "https://support.office.com/en-us/article/Функция-КУБЗНАЧЕНИЕ-8733da24-26d1-4e34-9b3a-84a8f00dcbe0",
+   category: "Функции кубов.",
+   description: "Возвращает агрегированное значение из куба.",
+   intro: ""
+  },
+  {
+   name: "ОБЩПЛАТ",
+   url: "https://support.office.com/en-us/article/Функция-ОБЩПЛАТ-61067bb0-9016-427d-b95b-1a752af0e606",
+   category: "Финансовые функции.",
+   description: "Возвращает кумулятивную (с нарастающим итогом) величину процентов, выплачиваемых по займу в промежутке между двумя периодами.",
+   intro: ""
+  },
+  {
+   name: "ОБЩДОХОД",
+   url: "https://support.office.com/en-us/article/Функция-ОБЩДОХОД-94a4516d-bd65-41a1-bc16-053a6af4c04d",
+   category: "Финансовые функции.",
+   description: "Возвращает кумулятивную (с нарастающим итогом) величину, выплачиваемую в погашение основной суммы займа в промежутке между двумя периодами.",
+   intro: ""
+  },
+  {
+   name: "ДАТА",
+   url: "https://support.office.com/en-us/article/Функция-ДАТА-e36c0c8c-4104-49da-ab83-82328b832349",
+   category: "Функции даты и времени.",
+   description: "Возвращает заданную дату в числовом формате.",
+   intro: ""
+  },
+  {
+   name: "РАЗНДАТ",
+   url: "https://support.office.com/en-us/article/Функция-РАЗНДАТ-25dba1a4-2812-480b-84dd-8b32a451b35c",
+   category: "Функции даты и времени.",
+   description: "Вычисляет количество дней, месяцев или лет между двумя датами. Эта функция полезна в формулах расчета возраста.",
+   intro: ""
+  },
+  {
+   name: "ДАТАЗНАЧ",
+   url: "https://support.office.com/en-us/article/Функция-ДАТАЗНАЧ-df8b07d4-7761-4a93-bc33-b7471bbff252",
+   category: "Функции даты и времени.",
+   description: "Преобразует дату из текстового формата в числовой.",
+   intro: ""
+  },
+  {
+   name: "ДСРЗНАЧ",
+   url: "https://support.office.com/en-us/article/Функция-ДСРЗНАЧ-a6a2d5ac-4b4b-48cd-a1d8-7b37834e5aee",
+   category: "Функции для работы с базами данных.",
+   description: "Возвращает среднее значение выбранных записей базы данных.",
+   intro: ""
+  },
+  {
+   name: "ДЕНЬ",
+   url: "https://support.office.com/en-us/article/Функция-ДЕНЬ-8a7d1cbb-6c7d-4ba1-8aea-25c134d03101",
+   category: "Функции даты и времени.",
+   description: "Преобразует дату в числовом формате в день месяца.",
+   intro: ""
+  },
+  {
+   name: "ДНИ",
+   url: "https://support.office.com/en-us/article/ДНИ-57740535-d549-4395-8728-0f07bff0b9df",
+   category: "Функции даты и времени.",
+   description: "Возвращает количество дней между двумя датами.",
+   intro: "2013"
+  },
+  {
+   name: "ДНЕЙ360",
+   url: "https://support.office.com/en-us/article/Функция-ДНЕЙ360-b9a509fd-49ef-407e-94df-0cbda5718c2a",
+   category: "Функции даты и времени.",
+   description: "Вычисляет количество дней между двумя датами для 360-дневного года.",
+   intro: ""
+  },
+  {
+   name: "ФУО",
+   url: "https://support.office.com/en-us/article/Функция-ФУО-354e7d28-5f93-4ff1-8a52-eb4ee549d9d7",
+   category: "Финансовые функции.",
+   description: "Возвращает величину амортизации актива для заданного периода, рассчитанную методом фиксированного уменьшения остатка.",
+   intro: ""
+  },
+  {
+   name: "DBCS",
+   url: "https://support.office.com/en-us/article/DBCS-a4025e73-63d2-4958-9423-21a24794c9e5",
+   category: "Текстовые функции.",
+   description: "Для языков с двухбайтовыми наборами знаков (например, катакана) преобразует полуширинные (однобайтовые) знаки в текстовой строке в полноширинные (двухбайтовые).",
+   intro: "2013"
+  },
+  {
+   name: "БСЧЁТ",
+   url: "https://support.office.com/en-us/article/Функция-БСЧЁТ-c1fc7b93-fb0d-4d8d-97db-8d5f076eaeb1",
+   category: "Функции для работы с базами данных.",
+   description: "Подсчитывает количество числовых ячеек в базе данных.",
+   intro: ""
+  },
+  {
+   name: "БСЧЁТА",
+   url: "https://support.office.com/en-us/article/Функция-БСЧЁТА-00232a6d-5a66-4a01-a25b-c1653fda1244",
+   category: "Функции для работы с базами данных.",
+   description: "Подсчитывает количество непустых ячеек в базе данных.",
+   intro: ""
+  },
+  {
+   name: "ДДОБ",
+   url: "https://support.office.com/en-us/article/Функция-ДДОБ-519a7a37-8772-4c96-85c0-ed2c209717a5",
+   category: "Финансовые функции.",
+   description: "Возвращает величину амортизации актива за данный период, используя метод двойного уменьшения остатка или иной явно указанный метод.",
+   intro: ""
+  },
+  {
+   name: "ДЕС.В.ДВ",
+   url: "https://support.office.com/en-us/article/Функция-ДЕСВДВ-0f63dd0e-5d1a-42d8-b511-5bf5c6d43838",
+   category: "Инженерные функции.",
+   description: "Преобразует десятичное число в двоичное.",
+   intro: ""
+  },
+  {
+   name: "ДЕС.В.ШЕСТН",
+   url: "https://support.office.com/en-us/article/Функция-ДЕСВШЕСТН-6344ee8b-b6b5-4c6a-a672-f64666704619",
+   category: "Инженерные функции.",
+   description: "Преобразует десятичное число в шестнадцатеричное.",
+   intro: ""
+  },
+  {
+   name: "ДЕС.В.ВОСЬМ",
+   url: "https://support.office.com/en-us/article/Функция-ДЕСВВОСЬМ-c9d835ca-20b7-40c4-8a9e-d3be351ce00f",
+   category: "Инженерные функции.",
+   description: "Преобразует десятичное число в восьмеричное.",
+   intro: ""
+  },
+  {
+   name: "ДЕС",
+   url: "https://support.office.com/en-us/article/ДЕС-ee554665-6176-46ef-82de-0a283658da2e",
+   category: "Математические и тригонометрические функции.",
+   description: "Преобразует текстовое представление числа в заданном основании в десятичное число.",
+   intro: "2013"
+  },
+  {
+   name: "ГРАДУСЫ",
+   url: "https://support.office.com/en-us/article/Функция-ГРАДУСЫ-4d6ec4db-e694-4b94-ace0-1cc3f61f9ba1",
+   category: "Математические и тригонометрические функции.",
+   description: "Преобразует радианы в градусы.",
+   intro: ""
+  },
+  {
+   name: "ДЕЛЬТА",
+   url: "https://support.office.com/en-us/article/Функция-ДЕЛЬТА-2f763672-c959-4e07-ac33-fe03220ba432",
+   category: "Инженерные функции.",
+   description: "Проверяет равенство двух значений.",
+   intro: ""
+  },
+  {
+   name: "КВАДРОТКЛ",
+   url: "https://support.office.com/en-us/article/Функция-КВАДРОТКЛ-8b739616-8376-4df5-8bd0-cfe0a6caf444",
+   category: "Статистические функции.",
+   description: "Возвращает сумму квадратов отклонений.",
+   intro: ""
+  },
+  {
+   name: "БИЗВЛЕЧЬ",
+   url: "https://support.office.com/en-us/article/Функция-БИЗВЛЕЧЬ-455568bf-4eef-45f7-90f0-ec250d00892e",
+   category: "Функции для работы с базами данных.",
+   description: "Извлекает из базы данных одну запись, удовлетворяющую заданному условию.",
+   intro: ""
+  },
+  {
+   name: "СКИДКА",
+   url: "https://support.office.com/en-us/article/Функция-СКИДКА-71fce9f3-3f05-4acf-a5a3-eac6ef4daa53",
+   category: "Финансовые функции.",
+   description: "Возвращает ставку дисконтирования для ценных бумаг.",
+   intro: ""
+  },
+  {
+   name: "ДМАКС",
+   url: "https://support.office.com/en-us/article/Функция-ДМАКС-f4e8209d-8958-4c3d-a1ee-6351665d41c2",
+   category: "Функции для работы с базами данных.",
+   description: "Возвращает максимальное значение среди выделенных записей базы данных.",
+   intro: ""
+  },
+  {
+   name: "ДМИН",
+   url: "https://support.office.com/en-us/article/Функция-ДМИН-4ae6f1d9-1f26-40f1-a783-6dc3680192a3",
+   category: "Функции для работы с базами данных.",
+   description: "Возвращает минимальное значение среди выделенных записей базы данных.",
+   intro: ""
+  },
+  {
+   name: "РУБЛЬ",
+   url: "https://support.office.com/en-us/article/Функция-РУБЛЬ-a6cd05d9-9740-4ad3-a469-8109d18ff611",
+   category: "Текстовые функции.",
+   description: "Преобразует число в текст, используя денежный формат рубля.",
+   intro: ""
+  },
+  {
+   name: "РУБЛЬ.ДЕС",
+   url: "https://support.office.com/en-us/article/Функция-РУБЛЬДЕС-db85aab0-1677-428a-9dfd-a38476693427",
+   category: "Финансовые функции.",
+   description: "Преобразует цену в рублях, выраженную в виде дроби, в цену в рублях, выраженную десятичным числом.",
+   intro: ""
+  },
+  {
+   name: "РУБЛЬ.ДРОБЬ",
+   url: "https://support.office.com/en-us/article/Функция-РУБЛЬДРОБЬ-0835d163-3023-4a33-9824-3042c5d4f495",
+   category: "Финансовые функции.",
+   description: "Преобразует цену в рублях, выраженную десятичным числом, в цену в рублях, выраженную в виде дроби.",
+   intro: ""
+  },
+  {
+   name: "БДПРОИЗВЕД",
+   url: "https://support.office.com/en-us/article/Функция-БДПРОИЗВЕД-4f96b13e-d49c-47a7-b769-22f6d017cb31",
+   category: "Функции для работы с базами данных.",
+   description: "Перемножает значения определенного поля в записях базы данных, удовлетворяющих условию.",
+   intro: ""
+  },
+  {
+   name: "ДСТАНДОТКЛ",
+   url: "https://support.office.com/en-us/article/Функция-ДСТАНДОТКЛ-026b8c73-616d-4b5e-b072-241871c4ab96",
+   category: "Функции для работы с базами данных.",
+   description: "Оценивает стандартное отклонение по выборке из выделенных записей базы данных.",
+   intro: ""
+  },
+  {
+   name: "ДСТАНДОТКЛП",
+   url: "https://support.office.com/en-us/article/Функция-ДСТАНДОТКЛП-04b78995-da03-4813-bbd9-d74fd0f5d94b",
+   category: "Функции для работы с базами данных.",
+   description: "Вычисляет стандартное отклонение по генеральной совокупности из выделенных записей базы данных.",
+   intro: ""
+  },
+  {
+   name: "БДСУММ",
+   url: "https://support.office.com/en-us/article/Функция-БДСУММ-53181285-0c4b-4f5a-aaa3-529a322be41b",
+   category: "Функции для работы с базами данных.",
+   description: "Суммирует числа в поле для записей базы данных, удовлетворяющих условию.",
+   intro: ""
+  },
+  {
+   name: "ДЛИТ",
+   url: "https://support.office.com/en-us/article/Функция-ДЛИТ-b254ea57-eadc-4602-a86a-c8e369334038",
+   category: "Финансовые функции.",
+   description: "Возвращает продолжительность Маколея для ценных бумаг, по которым выплачивается периодический процент.",
+   intro: ""
+  },
+  {
+   name: "БДДИСП",
+   url: "https://support.office.com/en-us/article/Функция-БДДИСП-d6747ca9-99c7-48bb-996e-9d7af00f3ed1",
+   category: "Функции для работы с базами данных.",
+   description: "Оценивает дисперсию по выборке из выделенных записей базы данных.",
+   intro: ""
+  },
+  {
+   name: "БДДИСПП",
+   url: "https://support.office.com/en-us/article/Функция-БДДИСПП-eb0ba387-9cb7-45c8-81e9-0394912502fc",
+   category: "Функции для работы с базами данных.",
+   description: "Вычисляет дисперсию по генеральной совокупности для выделенных записей базы данных.",
+   intro: ""
+  },
+  {
+   name: "ДАТАМЕС",
+   url: "https://support.office.com/en-us/article/Функция-ДАТАМЕС-3c920eb2-6e66-44e7-a1f5-753ae47ee4f5",
+   category: "Функции даты и времени.",
+   description: "Возвращает дату в числовом формате, отстоящую на заданное число месяцев вперед или назад от начальной даты.",
+   intro: ""
+  },
+  {
+   name: "ЭФФЕКТ",
+   url: "https://support.office.com/en-us/article/Функция-ЭФФЕКТ-910d4e4c-79e2-4009-95e6-507e04f11bc4",
+   category: "Финансовые функции.",
+   description: "Возвращает фактическую (эффективную) годовую процентную ставку.",
+   intro: ""
+  },
+  {
+   name: "КОДИР.URL",
+   url: "https://support.office.com/en-us/article/КОДИРURL-07c7fb90-7c60-4bff-8687-fac50fe33d0e",
+   category: "Функция веб-адреса.",
+   description: "Возвращает строку запроса, зашифрованную в виде URL-адреса.",
+   intro: "2013"
+  },
+  {
+   name: "КОНМЕСЯЦА",
+   url: "https://support.office.com/en-us/article/Функция-КОНМЕСЯЦА-7314ffa1-2bc9-4005-9d66-f49db127d628",
+   category: "Функции даты и времени.",
+   description: "Возвращает дату в числовом формате для последнего дня месяца, отстоящего вперед или назад на заданное число месяцев.",
+   intro: ""
+  },
+  {
+   name: "ФОШ",
+   url: "https://support.office.com/en-us/article/Функция-ФОШ-c53c7e7b-5482-4b6c-883e-56df3c9af349",
+   category: "Инженерные функции.",
+   description: "Возвращает функцию ошибки.",
+   intro: ""
+  },
+  {
+   name: "ФОШ.ТОЧН",
+   url: "https://support.office.com/en-us/article/Функция-ФОШТОЧН-9a349593-705c-4278-9a98-e4122831a8e0",
+   category: "Инженерные функции.",
+   description: "Возвращает функцию ошибки.",
+   intro: "2010"
+  },
+  {
+   name: "ДФОШ",
+   url: "https://support.office.com/en-us/article/Функция-ДФОШ-736e0318-70ba-4e8b-8d08-461fe68b71b3",
+   category: "Инженерные функции.",
+   description: "Возвращает дополнительную функцию ошибки.",
+   intro: ""
+  },
+  {
+   name: "ДФОШ.ТОЧН",
+   url: "https://support.office.com/en-us/article/ДФОШТОЧН-e90e6bab-f45e-45df-b2ac-cd2eb4d4a273",
+   category: "Инженерные функции.",
+   description: "Возвращает дополнительную функцию ошибки, проинтегрированную в пределах от x до бесконечности.",
+   intro: "2010"
+  },
+  {
+   name: "ТИП.ОШИБКИ",
+   url: "https://support.office.com/en-us/article/Функция-ТИПОШИБКИ-10958677-7c8d-44f7-ae77-b9a9ee6eefaa",
+   category: "Информационные функции.",
+   description: "Возвращает числовой код, соответствующий типу ошибки.",
+   intro: ""
+  },
+  {
+   name: "ПЕРЕСЧЕТЕВРО",
+   url: "https://support.office.com/en-us/article/Функция-ПЕРЕСЧЕТЕВРО-79c8fd67-c665-450c-bb6c-15fc92f8345c",
+   category: "Надстройки и автоматизация.",
+   description: "Преобразует число в значение в евро, преобразует значения в евро в значение в национальной валюте стран, использующих евро, или преобразует число из одной национальной валюты в другую, используя в качестве промежуточного результата значение в евро (триангуляция).",
+   intro: ""
+  },
+  {
+   name: "ЧЁТН",
+   url: "https://support.office.com/en-us/article/Функция-ЧЁТН-197b5f06-c795-4c1e-8696-3c3b8a646cf9",
+   category: "Математические и тригонометрические функции.",
+   description: "Округляет число до ближайшего четного целого.",
+   intro: ""
+  },
+  {
+   name: "СОВПАД",
+   url: "https://support.office.com/en-us/article/Функция-СОВПАД-d3087698-fc15-4a15-9631-12575cf29926",
+   category: "Текстовые функции.",
+   description: "Проверяет идентичность двух текстовых значений.",
+   intro: ""
+  },
+  {
+   name: "EXP",
+   url: "https://support.office.com/en-us/article/Функция-EXP-c578f034-2c45-4c37-bc8c-329660a63abe",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает число , возведенное в указанную степень.",
+   intro: ""
+  },
+  {
+   name: "ЭКСП.РАСП",
+   url: "https://support.office.com/en-us/article/ЭКСПРАСП-4c12ae24-e563-4155-bf3e-8b78b6ae140e",
+   category: "Статистические функции.",
+   description: "Возвращает экспоненциальное распределение.",
+   intro: "2010"
+  },
+  {
+   name: "ЭКСПРАСП",
+   url: "https://support.office.com/en-us/article/Функция-ЭКСПРАСП-68ab45fd-cd6d-4887-9770-9357eb8ee06a",
+   category: "Функции совместимости.",
+   description: "Возвращает экспоненциальное распределение.",
+   intro: ""
+  },
+  {
+   name: "ФАКТР",
+   url: "https://support.office.com/en-us/article/Функция-ФАКТР-ca8588c2-15f2-41c0-8e8c-c11bd471a4f3",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает факториал числа.",
+   intro: ""
+  },
+  {
+   name: "ДВФАКТР",
+   url: "https://support.office.com/en-us/article/Функция-ДВФАКТР-e67697ac-d214-48eb-b7b7-cce2589ecac8",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает двойной факториал числа.",
+   intro: ""
+  },
+  {
+   name: "ЛОЖЬ",
+   url: "https://support.office.com/en-us/article/Функция-ЛОЖЬ-2d58dfa5-9c03-4259-bf8f-f0ae14346904",
+   category: "Логические функции.",
+   description: "Возвращает логическое значение ЛОЖЬ.",
+   intro: ""
+  },
+  {
+   name: "F.РАСП",
+   url: "https://support.office.com/en-us/article/FРАСП-a887efdc-7c8e-46cb-a74a-f884cd29b25d",
+   category: "Статистические функции.",
+   description: "Возвращает F-распределение вероятности.",
+   intro: "2010"
+  },
+  {
+   name: "FРАСП",
+   url: "https://support.office.com/en-us/article/Функция-FРАСП-ecf76fba-b3f1-4e7d-a57e-6a5b7460b786",
+   category: "Функции совместимости.",
+   description: "Возвращает F-распределение вероятности.",
+   intro: ""
+  },
+  {
+   name: "F.РАСП.ПХ",
+   url: "https://support.office.com/en-us/article/FРАСППХ-d74cbb00-6017-4ac9-b7d7-6049badc0520",
+   category: "Статистические функции.",
+   description: "Возвращает F-распределение вероятности.",
+   intro: "2010"
+  },
+  {
+   name: "ФИЛЬТР.XML",
+   url: "https://support.office.com/en-us/article/ФИЛЬТРXML-4df72efc-11ec-4951-86f5-c1374812f5b7",
+   category: "Функция веб-адреса.",
+   description: "Возвращает определенные данные из содержимого XML, используя указанный объект XPath.",
+   intro: "2013"
+  },
+  {
+   name: ["НАЙТИ", "НАЙТИБ"],
+   url: "https://support.office.com/en-us/article/Функции-НАЙТИ-НАЙТИБ-c7912941-af2a-4bdf-a553-d0d89b0a0628",
+   category: "Текстовые функции.",
+   description: "Выполняет поиск вхождения одного текстового значения в другом (с учетом регистра).",
+   intro: ""
+  },
+  {
+   name: "F.ОБР",
+   url: "https://support.office.com/en-us/article/FОБР-0dda0cf9-4ea0-42fd-8c3c-417a1ff30dbe",
+   category: "Статистические функции.",
+   description: "Возвращает обратное значение для F-распределения вероятности.",
+   intro: "2010"
+  },
+  {
+   name: "F.ОБР.ПХ",
+   url: "https://support.office.com/en-us/article/Функция-FОБРПХ-d371aa8f-b0b1-40ef-9cc2-496f0693ac00",
+   category: "Статистические функции.",
+   description: "Возвращает обратное значение для F-распределения вероятности.",
+   intro: "2010"
+  },
+  {
+   name: "FРАСПОБР",
+   url: "https://support.office.com/en-us/article/Функция-FРАСПОБР-4d46c97c-c368-4852-bc15-41e8e31140b1",
+   category: "Статистические функции.",
+   description: "Возвращает обратное значение для F-распределения вероятности.",
+   intro: ""
+  },
+  {
+   name: "ФИШЕР",
+   url: "https://support.office.com/en-us/article/Функция-ФИШЕР-d656523c-5076-4f95-b87b-7741bf236c69",
+   category: "Статистические функции.",
+   description: "Возвращает преобразование Фишера.",
+   intro: ""
+  },
+  {
+   name: "ФИШЕРОБР",
+   url: "https://support.office.com/en-us/article/Функция-ФИШЕРОБР-62504b39-415a-4284-a285-19c8e82f86bb",
+   category: "Статистические функции.",
+   description: "Возвращает обратное преобразование Фишера.",
+   intro: ""
+  },
+  {
+   name: "ФИКСИРОВАННЫЙ",
+   url: "https://support.office.com/en-us/article/Функция-ФИКСИРОВАННЫЙ-ffd5723c-324c-45e9-8b96-e41be2a8274a",
+   category: "Текстовые функции.",
+   description: "Форматирует число и преобразует его в текст с заданным числом десятичных знаков.",
+   intro: ""
+  },
+  {
+   name: "ОКРВНИЗ",
+   url: "https://support.office.com/en-us/article/Функция-ОКРВНИЗ-14bb497c-24f2-4e04-b327-b0b4de5a8886",
+   category: "Функции совместимости.",
+   description: "Округляет число до ближайшего меньшего по модулю значения.",
+   intro: ""
+  },
+  {
+   name: "ОКРВНИЗ.МАТ",
+   url: "https://support.office.com/en-us/article/ОКРВНИЗМАТ-c302b599-fbdb-4177-ba19-2c2b1249a2f5",
+   category: "Математические и тригонометрические функции.",
+   description: "Округляет число в меньшую сторону до ближайшего целого или кратного.",
+   intro: "2013"
+  },
+  {
+   name: "ОКРВНИЗ.ТОЧН",
+   url: "https://support.office.com/en-us/article/Функция-ОКРВНИЗТОЧН-f769b468-1452-4617-8dc3-02f842a0702e",
+   category: "Математические и тригонометрические функции.",
+   description: "Округляет число в большую сторону (независимо от его знака) до ближайшего целого или кратного.",
+   intro: ""
+  },
+  {
+   name: "ПРЕДСКАЗ",
+   url: "https://support.office.com/en-us/article/Функция-ПРЕДСКАЗ-50ca49c9-7b40-4892-94e4-7ad38bbeda99",
+   category: "Статистические функции.",
+   description: "Возвращает значение линейного тренда.",
+   intro: ""
+  },
+  {
+   name: "ПРЕДСКАЗ.ETS",
+   url: "https://support.office.com/en-us/article/ПРЕДСКАЗETS-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_forecast.ets",
+   category: "Статистическая функция.",
+   description: "Возвращает будущее значение на основе существующих (ретроспективных) данных с использованием версии AAA алгоритма экспоненциального сглаживания (ETS).",
+   intro: "2016"
+  },
+  {
+   name: "ПРЕДСКАЗ.ЕTS.ДОВИНТЕРВАЛ",
+   url: "https://support.office.com/en-us/article/ПРЕДСКАЗЕTSДОВИНТЕРВАЛ-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_forecast.ets.confint",
+   category: "Статистическая функция.",
+   description: "Возвращает доверительный интервал для прогнозной величины на указанную дату.",
+   intro: "2016"
+  },
+  {
+   name: "ПРЕДСКАЗ.ETS.СЕЗОННОСТЬ",
+   url: "https://support.office.com/en-us/article/ПРЕДСКАЗETSСЕЗОННОСТЬ-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_forecast.ets.seasonality",
+   category: "Статистическая функция.",
+   description: "Возвращает длину повторяющегося фрагмента, обнаруженного программой Excel в заданном временном ряду.",
+   intro: "2016"
+  },
+  {
+   name: "ПРЕДСКАЗ.ETS.СТАТ",
+   url: "https://support.office.com/en-us/article/ПРЕДСКАЗETSСТАТ-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_forecast.ets.stat",
+   category: "Статистическая функция.",
+   description: "Возвращает статистическое значение, являющееся результатом прогнозирования временного ряда.",
+   intro: "2016"
+  },
+  {
+   name: "ПРЕДСКАЗ.ЛИНЕЙН",
+   url: "https://support.office.com/en-us/article/ПРЕДСКАЗЛИНЕЙН-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_forecast.linear",
+   category: "Статистическая функция.",
+   description: "Возвращает будущее значение на основе существующих значений.",
+   intro: "2016"
+  },
+  {
+   name: "Ф.ТЕКСТ",
+   url: "https://support.office.com/en-us/article/ФТЕКСТ-0a786771-54fd-4ae2-96ee-09cda35439c8",
+   category: "Функции поиска и работы со ссылками.",
+   description: "Возвращает формулу в заданной ссылке в виде текста.",
+   intro: "2013"
+  },
+  {
+   name: "ЧАСТОТА",
+   url: "https://support.office.com/en-us/article/Функция-ЧАСТОТА-44e3be2b-eca0-42cd-a3f7-fd9ea898fdb9",
+   category: "Статистические функции.",
+   description: "Возвращает распределение частот в виде вертикального массива.",
+   intro: ""
+  },
+  {
+   name: "F.ТЕСТ",
+   url: "https://support.office.com/en-us/article/FТЕСТ-100a59e7-4108-46f8-8443-78ffacb6c0a7",
+   category: "Статистические функции.",
+   description: "Возвращает результат F-теста.",
+   intro: "2010"
+  },
+  {
+   name: "ФТЕСТ",
+   url: "https://support.office.com/en-us/article/Функция-ФТЕСТ-4c9e1202-53fe-428c-a737-976f6fc3f9fd",
+   category: "Функции совместимости.",
+   description: "Возвращает результат F-теста.",
+   intro: ""
+  },
+  {
+   name: "БС",
+   url: "https://support.office.com/en-us/article/Функция-БС-2eef9f44-a084-4c61-bdd8-4fe4bb1b71b3",
+   category: "Финансовые функции.",
+   description: "Возвращает будущую стоимость инвестиции.",
+   intro: ""
+  },
+  {
+   name: "БЗРАСПИС",
+   url: "https://support.office.com/en-us/article/Функция-БЗРАСПИС-bec29522-bd87-4082-bab9-a241f3fb251d",
+   category: "Финансовые функции.",
+   description: "Возвращает будущее значение первоначальной основной суммы после применения ряда (плана) ставок сложных процентов.",
+   intro: ""
+  },
+  {
+   name: "ГАММА",
+   url: "https://support.office.com/en-us/article/ГАММА-ce1702b1-cf55-471d-8307-f83be0fc5297",
+   category: "Статистические функции.",
+   description: "Возвращает значение гамма-функции.",
+   intro: "2013"
+  },
+  {
+   name: "ГАММА.РАСП",
+   url: "https://support.office.com/en-us/article/ГАММАРАСП-9b6f1538-d11c-4d5f-8966-21f6a2201def",
+   category: "Статистические функции.",
+   description: "Возвращает гамма-распределение.",
+   intro: "2010"
+  },
+  {
+   name: "ГАММАРАСП",
+   url: "https://support.office.com/en-us/article/Функция-ГАММАРАСП-7327c94d-0f05-4511-83df-1dd7ed23e19e",
+   category: "Функции совместимости.",
+   description: "Возвращает гамма-распределение.",
+   intro: ""
+  },
+  {
+   name: "ГАММА.ОБР",
+   url: "https://support.office.com/en-us/article/ГАММАОБР-74991443-c2b0-4be5-aaab-1aa4d71fbb18",
+   category: "Статистические функции.",
+   description: "Возвращает обратное значение интегрального гамма-распределения.",
+   intro: "2010"
+  },
+  {
+   name: "ГАММАОБР",
+   url: "https://support.office.com/en-us/article/Функция-ГАММАОБР-06393558-37ab-47d0-aa63-432f99e7916d",
+   category: "Функции совместимости.",
+   description: "Возвращает обратное значение интегрального гамма-распределения.",
+   intro: ""
+  },
+  {
+   name: "ГАММАНЛОГ",
+   url: "https://support.office.com/en-us/article/Функция-ГАММАНЛОГ-b838c48b-c65f-484f-9e1d-141c55470eb9",
+   category: "Статистические функции.",
+   description: "Возвращает натуральный логарифм гамма-функции, Г(x).",
+   intro: ""
+  },
+  {
+   name: "ГАММАНЛОГ.ТОЧН",
+   url: "https://support.office.com/en-us/article/Функция-ГАММАНЛОГТОЧН-5cdfe601-4e1e-4189-9d74-241ef1caa599",
+   category: "Статистические функции.",
+   description: "Возвращает натуральный логарифм гамма-функции, Г(x).",
+   intro: "2010"
+  },
+  {
+   name: "ГАУСС",
+   url: "https://support.office.com/en-us/article/ГАУСС-069f1b4e-7dee-4d6a-a71f-4b69044a6b33",
+   category: "Статистические функции.",
+   description: "Возвращает значение на 0,5 меньше стандартного нормального распределения.",
+   intro: "2013"
+  },
+  {
+   name: "НОД",
+   url: "https://support.office.com/en-us/article/Функция-НОД-d5107a51-69e3-461f-8e4c-ddfc21b5073a",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает наибольший общий делитель.",
+   intro: ""
+  },
+  {
+   name: "СРГЕОМ",
+   url: "https://support.office.com/en-us/article/Функция-СРГЕОМ-db1ac48d-25a5-40a0-ab83-0b38980e40d5",
+   category: "Статистические функции.",
+   description: "Возвращает среднее геометрическое.",
+   intro: ""
+  },
+  {
+   name: "ПОРОГ",
+   url: "https://support.office.com/en-us/article/Функция-ПОРОГ-f37e7d2a-41da-4129-be95-640883fca9df",
+   category: "Инженерные функции.",
+   description: "Проверяет, не превышает ли данное число пороговое значение.",
+   intro: ""
+  },
+  {
+   name: "ПОЛУЧИТЬ.ДАННЫЕ.СВОДНОЙ.ТАБЛИЦЫ",
+   url: "https://support.office.com/en-us/article/Функция-ПОЛУЧИТЬДАННЫЕСВОДНОЙТАБЛИЦЫ-8c083b99-a922-4ca0-af5e-3af55960761f",
+   category: "Функции ссылки и поиска.",
+   description: "Возвращают данные, хранящиеся в отчете сводной таблицы.",
+   intro: ""
+  },
+  {
+   name: "РОСТ",
+   url: "https://support.office.com/en-us/article/Функция-РОСТ-541a91dc-3d5e-437d-b156-21324e68b80d",
+   category: "Статистические функции.",
+   description: "Возвращает значения в соответствии с экспоненциальным трендом.",
+   intro: ""
+  },
+  {
+   name: "СРГАРМ",
+   url: "https://support.office.com/en-us/article/Функция-СРГАРМ-5efd9184-fab5-42f9-b1d3-57883a1d3bc6",
+   category: "Статистические функции.",
+   description: "Возвращает среднее гармоническое.",
+   intro: ""
+  },
+  {
+   name: "ШЕСТН.В.ДВ",
+   url: "https://support.office.com/en-us/article/Функция-ШЕСТНВДВ-a13aafaa-5737-4920-8424-643e581828c1",
+   category: "Инженерные функции.",
+   description: "Преобразует шестнадцатеричное число в двоичное.",
+   intro: ""
+  },
+  {
+   name: "ШЕСТН.В.ДЕС",
+   url: "https://support.office.com/en-us/article/Функция-ШЕСТНВДЕС-8c8c3155-9f37-45a5-a3ee-ee5379ef106e",
+   category: "Инженерные функции.",
+   description: "Преобразует шестнадцатеричное число в десятичное.",
+   intro: ""
+  },
+  {
+   name: "ШЕСТН.В.ВОСЬМ",
+   url: "https://support.office.com/en-us/article/Функция-ШЕСТНВВОСЬМ-54d52808-5d19-4bd0-8a63-1096a5d11912",
+   category: "Инженерные функции.",
+   description: "Преобразует шестнадцатеричное число в восьмеричное.",
+   intro: ""
+  },
+  {
+   name: "ГПР",
+   url: "https://support.office.com/en-us/article/Функция-ГПР-a3034eec-b719-4ba3-bb65-e1ad662ed95f",
+   category: "Функции поиска и работы со ссылками.",
+   description: "Выполняет поиск в первой строке массива и возвращает значение указанной ячейки.",
+   intro: ""
+  },
+  {
+   name: "ЧАС",
+   url: "https://support.office.com/en-us/article/Функция-ЧАС-a3afa879-86cb-4339-b1b5-2dd2d7310ac7",
+   category: "Функции даты и времени.",
+   description: "Преобразует дату в числовом формате в часы.",
+   intro: ""
+  },
+  {
+   name: "ГИПЕРССЫЛКА",
+   url: "https://support.office.com/en-us/article/Функция-ГИПЕРССЫЛКА-333c7ce6-c5ae-4164-9c47-7de9b76f577f",
+   category: "Функции поиска и работы со ссылками.",
+   description: "Создает ссылку, открывающую документ, который находится на сервере сети, в интрасети или в Интернете.",
+   intro: ""
+  },
+  {
+   name: "ГИПЕРГЕОМ.РАСП",
+   url: "https://support.office.com/en-us/article/Функция-ГИПЕРГЕОМРАСП-6dbd547f-1d12-4b1f-8ae5-b0d9e3d22fbf",
+   category: "Статистические функции.",
+   description: "Возвращает гипергеометрическое распределение.",
+   intro: ""
+  },
+  {
+   name: "ГИПЕРГЕОМЕТ",
+   url: "https://support.office.com/en-us/article/Функция-ГИПЕРГЕОМЕТ-23e37961-2871-4195-9629-d0b2c108a12e",
+   category: "Функции совместимости.",
+   description: "Возвращает гипергеометрическое распределение.",
+   intro: ""
+  },
+  {
+   name: "ЕСЛИ",
+   url: "https://support.office.com/en-us/article/Функция-ЕСЛИ-69aed7c9-4e8a-4755-a9bc-aa8bbff73be2",
+   category: "Логические функции.",
+   description: "Выполняет проверку условия.",
+   intro: ""
+  },
+  {
+   name: "ЕСЛИОШИБКА",
+   url: "https://support.office.com/en-us/article/Функция-ЕСЛИОШИБКА-c526fd07-caeb-47b8-8bb6-63f3e417f611",
+   category: "Логические функции.",
+   description: "Возвращает введенное значение, если вычисление по формуле вызывает ошибку; в противном случае возвращает результат вычисления.",
+   intro: ""
+  },
+  {
+   name: "ЕСЛИНД",
+   url: "https://support.office.com/en-us/article/ЕСЛИНД-6626c961-a569-42fc-a49d-79b4951fd461",
+   category: "Логические функции.",
+   description: "Возвращает значение, которое задается, если выражение принимает значение #Н/Д. В противном случае возвращает результат выражения.",
+   intro: "2013"
+  },
+  {
+   name: "УСЛОВИЯ",
+   url: "https://support.office.com/en-us/article/УСЛОВИЯ-36329a26-37b2-467c-972b-4a39bd951d45",
+   category: "Логические функции.",
+   description: "Проверяет соответствие одному или нескольким условиям и возвращает значение для первого условия, принимающего значение ИСТИНА.",
+   intro: "2016"
+  },
+  {
+   name: "МНИМ.ABS",
+   url: "https://support.office.com/en-us/article/Функция-МНИМABS-b31e73c6-d90c-4062-90bc-8eb351d765a1",
+   category: "Инженерные функции.",
+   description: "Возвращает абсолютную величину (модуль) комплексного числа.",
+   intro: ""
+  },
+  {
+   name: "МНИМ.ЧАСТЬ",
+   url: "https://support.office.com/en-us/article/Функция-МНИМЧАСТЬ-dd5952fd-473d-44d9-95a1-9a17b23e428a",
+   category: "Инженерные функции.",
+   description: "Возвращает коэффициент при мнимой части комплексного числа.",
+   intro: ""
+  },
+  {
+   name: "МНИМ.АРГУМЕНТ",
+   url: "https://support.office.com/en-us/article/Функция-МНИМАРГУМЕНТ-eed37ec1-23b3-4f59-b9f3-d340358a034a",
+   category: "Инженерные функции.",
+   description: "Возвращает значение аргумента комплексного числа (тета) — угол, выраженный в радианах.",
+   intro: ""
+  },
+  {
+   name: "МНИМ.СОПРЯЖ",
+   url: "https://support.office.com/en-us/article/Функция-МНИМСОПРЯЖ-2e2fc1ea-f32b-4f9b-9de6-233853bafd42",
+   category: "Инженерные функции.",
+   description: "Возвращает комплексно-сопряженное комплексного числа.",
+   intro: ""
+  },
+  {
+   name: "МНИМ.COS",
+   url: "https://support.office.com/en-us/article/Функция-МНИМCOS-dad75277-f592-4a6b-ad6c-be93a808a53c",
+   category: "Инженерные функции.",
+   description: "Возвращает косинус комплексного числа.",
+   intro: ""
+  },
+  {
+   name: "МНИМ.COSH",
+   url: "https://support.office.com/en-us/article/МНИМCOSH-053e4ddb-4122-458b-be9a-457c405e90ff",
+   category: "Инженерные функции.",
+   description: "Возвращает гиперболический косинус комплексного числа.",
+   intro: "2013"
+  },
+  {
+   name: "МНИМ.COT",
+   url: "https://support.office.com/en-us/article/МНИМCOT-dc6a3607-d26a-4d06-8b41-8931da36442c",
+   category: "Инженерные функции.",
+   description: "Возвращает котангенс комплексного числа.",
+   intro: "2013"
+  },
+  {
+   name: "МНИМ.CSC",
+   url: "https://support.office.com/en-us/article/МНИМCSC-9e158d8f-2ddf-46cd-9b1d-98e29904a323",
+   category: "Инженерные функции.",
+   description: "Возвращает косеканс комплексного числа.",
+   intro: "2013"
+  },
+  {
+   name: "МНИМ.CSCH",
+   url: "https://support.office.com/en-us/article/МНИМCSCH-c0ae4f54-5f09-4fef-8da0-dc33ea2c5ca9",
+   category: "Инженерные функции.",
+   description: "Возвращает гиперболический косеканс комплексного числа.",
+   intro: "2013"
+  },
+  {
+   name: "МНИМ.ДЕЛ",
+   url: "https://support.office.com/en-us/article/Функция-МНИМДЕЛ-a505aff7-af8a-4451-8142-77ec3d74d83f",
+   category: "Инженерные функции.",
+   description: "Возвращает частное от деления двух комплексных чисел.",
+   intro: ""
+  },
+  {
+   name: "МНИМ.EXP",
+   url: "https://support.office.com/en-us/article/Функция-МНИМEXP-c6f8da1f-e024-4c0c-b802-a60e7147a95f",
+   category: "Инженерные функции.",
+   description: "Возвращает экспоненту комплексного числа.",
+   intro: ""
+  },
+  {
+   name: "МНИМ.LN",
+   url: "https://support.office.com/en-us/article/Функция-МНИМLN-32b98bcf-8b81-437c-a636-6fb3aad509d8",
+   category: "Инженерные функции.",
+   description: "Возвращает натуральный логарифм комплексного числа.",
+   intro: ""
+  },
+  {
+   name: "МНИМ.LOG10",
+   url: "https://support.office.com/en-us/article/Функция-МНИМLOG10-58200fca-e2a2-4271-8a98-ccd4360213a5",
+   category: "Инженерные функции.",
+   description: "Возвращает десятичный логарифм комплексного числа.",
+   intro: ""
+  },
+  {
+   name: "МНИМ.LOG2",
+   url: "https://support.office.com/en-us/article/Функция-МНИМLOG2-152e13b4-bc79-486c-a243-e6a676878c51",
+   category: "Инженерные функции.",
+   description: "Возвращает двоичный логарифм комплексного числа.",
+   intro: ""
+  },
+  {
+   name: "МНИМ.СТЕПЕНЬ",
+   url: "https://support.office.com/en-us/article/Функция-МНИМСТЕПЕНЬ-210fd2f5-f8ff-4c6a-9d60-30e34fbdef39",
+   category: "Инженерные функции.",
+   description: "Возвращает комплексное число, возведенное в степень с целочисленным показателем.",
+   intro: ""
+  },
+  {
+   name: "МНИМ.ПРОИЗВЕД",
+   url: "https://support.office.com/en-us/article/Функция-МНИМПРОИЗВЕД-2fb8651a-a4f2-444f-975e-8ba7aab3a5ba",
+   category: "Инженерные функции.",
+   description: "Возвращает произведение комплексных чисел.",
+   intro: ""
+  },
+  {
+   name: "МНИМ.ВЕЩ",
+   url: "https://support.office.com/en-us/article/Функция-МНИМВЕЩ-d12bc4c0-25d0-4bb3-a25f-ece1938bf366",
+   category: "Инженерные функции.",
+   description: "Возвращает коэффициент при вещественной (действительной) части комплексного числа.",
+   intro: ""
+  },
+  {
+   name: "МНИМ.SEC",
+   url: "https://support.office.com/en-us/article/МНИМSEC-6df11132-4411-4df4-a3dc-1f17372459e0",
+   category: "Инженерные функции.",
+   description: "Возвращает секанс комплексного числа.",
+   intro: "2013"
+  },
+  {
+   name: "МНИМ.SECH",
+   url: "https://support.office.com/en-us/article/МНИМSECH-f250304f-788b-4505-954e-eb01fa50903b",
+   category: "Инженерные функции.",
+   description: "Возвращает гиперболический секанс комплексного числа.",
+   intro: "2013"
+  },
+  {
+   name: "МНИМ.SIN",
+   url: "https://support.office.com/en-us/article/Функция-МНИМSIN-1ab02a39-a721-48de-82ef-f52bf37859f6",
+   category: "Инженерные функции.",
+   description: "Возвращает синус комплексного числа.",
+   intro: ""
+  },
+  {
+   name: "МНИМ.SINH",
+   url: "https://support.office.com/en-us/article/МНИМSINH-dfb9ec9e-8783-4985-8c42-b028e9e8da3d",
+   category: "Инженерные функции.",
+   description: "Возвращает гиперболический синус комплексного числа.",
+   intro: "2013"
+  },
+  {
+   name: "МНИМ.КОРЕНЬ",
+   url: "https://support.office.com/en-us/article/Функция-МНИМКОРЕНЬ-e1753f80-ba11-4664-a10e-e17368396b70",
+   category: "Инженерные функции.",
+   description: "Возвращает значение квадратного корня из комплексного числа.",
+   intro: ""
+  },
+  {
+   name: "МНИМ.РАЗН",
+   url: "https://support.office.com/en-us/article/Функция-МНИМРАЗН-2e404b4d-4935-4e85-9f52-cb08b9a45054",
+   category: "Инженерные функции.",
+   description: "Возвращает разность двух комплексных чисел.",
+   intro: ""
+  },
+  {
+   name: "МНИМ.СУММ",
+   url: "https://support.office.com/en-us/article/Функция-МНИМСУММ-81542999-5f1c-4da6-9ffe-f1d7aaa9457f",
+   category: "Инженерные функции.",
+   description: "Возвращает сумму комплексных чисел.",
+   intro: ""
+  },
+  {
+   name: "МНИМ.TAN",
+   url: "https://support.office.com/en-us/article/МНИМTAN-8478f45d-610a-43cf-8544-9fc0b553a132",
+   category: "Инженерные функции.",
+   description: "Возвращает тангенс комплексного числа.",
+   intro: "2013"
+  },
+  {
+   name: "ИНДЕКС",
+   url: "https://support.office.com/en-us/article/Функция-ИНДЕКС-a5dcf0dd-996d-40a4-a822-b56b061328bd",
+   category: "Функции поиска и работы со ссылками.",
+   description: "Использует индекс для выбора значения из ссылки или массива.",
+   intro: ""
+  },
+  {
+   name: "ДВССЫЛ",
+   url: "https://support.office.com/en-us/article/Функция-ДВССЫЛ-474b3a3a-8a26-4f44-b491-92b6306fa261",
+   category: "Функции поиска и работы со ссылками.",
+   description: "Возвращает ссылку, заданную текстовым значением.",
+   intro: ""
+  },
+  {
+   name: "ИНФОРМ",
+   url: "https://support.office.com/en-us/article/Функция-ИНФОРМ-725f259a-0e4b-49b3-8b52-58815c69acae",
+   category: "Информационные функции.",
+   description: "Возвращает сведения о текущей операционной среде.",
+   intro: ""
+  },
+  {
+   name: "ЦЕЛОЕ",
+   url: "https://support.office.com/en-us/article/Функция-ЦЕЛОЕ-a6c4af9e-356d-4369-ab6a-cb1fd9d343ef",
+   category: "Математические и тригонометрические функции.",
+   description: "Округляет число до ближайшего меньшего целого.",
+   intro: ""
+  },
+  {
+   name: "ОТРЕЗОК",
+   url: "https://support.office.com/en-us/article/Функция-ОТРЕЗОК-2a9b74e2-9d47-4772-b663-3bca70bf63ef",
+   category: "Статистические функции.",
+   description: "Возвращает отрезок, отсекаемый на оси линией линейной регрессии.",
+   intro: ""
+  },
+  {
+   name: "ИНОРМА",
+   url: "https://support.office.com/en-us/article/Функция-ИНОРМА-5cb34dde-a221-4cb6-b3eb-0b9e55e1316f",
+   category: "Финансовые функции.",
+   description: "Возвращает процентную ставку для полностью инвестированных ценных бумаг.",
+   intro: ""
+  },
+  {
+   name: "ПРПЛТ",
+   url: "https://support.office.com/en-us/article/Функция-ПРПЛТ-5cce0ad6-8402-4a41-8d29-61a0b054cb6f",
+   category: "Финансовые функции.",
+   description: "Возвращает проценты по вкладу за данный период.",
+   intro: ""
+  },
+  {
+   name: "ВСД",
+   url: "https://support.office.com/en-us/article/Функция-ВСД-64925eaa-9988-495b-b290-3ad0c163c1bc",
+   category: "Финансовые функции.",
+   description: "Возвращает внутреннюю ставку доходности для ряда потоков денежных средств.",
+   intro: ""
+  },
+  {
+   name: "ЕПУСТО",
+   url: "https://support.office.com/en-us/article/Функция-ЕПУСТО-0f2d7971-6019-40a0-a171-f2d869135665",
+   category: "Информационные функции.",
+   description: "Возвращает значение ИСТИНА, если аргумент является ссылкой на пустую ячейку.",
+   intro: ""
+  },
+  {
+   name: "ЕОШ",
+   url: "https://support.office.com/en-us/article/Функция-ЕОШ-0f2d7971-6019-40a0-a171-f2d869135665",
+   category: "Информационные функции.",
+   description: "Возвращает значение ИСТИНА, если аргумент ссылается на любое значение ошибки, кроме #Н/Д.",
+   intro: ""
+  },
+  {
+   name: "ЕОШИБКА",
+   url: "https://support.office.com/en-us/article/Функция-ЕОШИБКА-0f2d7971-6019-40a0-a171-f2d869135665",
+   category: "Информационные функции.",
+   description: "Возвращает значение ИСТИНА, если аргумент ссылается на любое значение ошибки.",
+   intro: ""
+  },
+  {
+   name: "ЕЧЁТН",
+   url: "https://support.office.com/en-us/article/Функция-ЕЧЁТН-aa15929a-d77b-4fbb-92f4-2f479af55356",
+   category: "Информационные функции.",
+   description: "Возвращает значение ИСТИНА, если значение аргумента является четным числом.",
+   intro: ""
+  },
+  {
+   name: "ЕФОРМУЛА",
+   url: "https://support.office.com/en-us/article/ЕФОРМУЛА-e4d1355f-7121-4ef2-801e-3839bfd6b1e5",
+   category: "Информационные функции.",
+   description: "Возвращает значение ИСТИНА, если имеется ссылка на ячейку с формулой.",
+   intro: "2013"
+  },
+  {
+   name: "ЕЛОГИЧ",
+   url: "https://support.office.com/en-us/article/Функция-ЕЛОГИЧ-0f2d7971-6019-40a0-a171-f2d869135665",
+   category: "Информационные функции.",
+   description: "Возвращает значение ИСТИНА, если аргумент ссылается на логическое значение.",
+   intro: ""
+  },
+  {
+   name: "ЕНД",
+   url: "https://support.office.com/en-us/article/Функция-ЕНД-0f2d7971-6019-40a0-a171-f2d869135665",
+   category: "Информационные функции.",
+   description: "Возвращает значение ИСТИНА, если аргумент ссылается на значение ошибки #Н/Д.",
+   intro: ""
+  },
+  {
+   name: "ЕНЕТЕКСТ",
+   url: "https://support.office.com/en-us/article/Функция-ЕНЕТЕКСТ-0f2d7971-6019-40a0-a171-f2d869135665",
+   category: "Информационные функции.",
+   description: "Возвращает значение ИСТИНА, если значение аргумента не является текстом.",
+   intro: ""
+  },
+  {
+   name: "ЕЧИСЛО",
+   url: "https://support.office.com/en-us/article/Функция-ЕЧИСЛО-0f2d7971-6019-40a0-a171-f2d869135665",
+   category: "Информационные функции.",
+   description: "Возвращает значение ИСТИНА, если аргумент ссылается на число.",
+   intro: ""
+  },
+  {
+   name: "ЕНЕЧЁТ",
+   url: "https://support.office.com/en-us/article/Функция-ЕНЕЧЁТ-0f2d7971-6019-40a0-a171-f2d869135665",
+   category: "Информационные функции.",
+   description: "Возвращает значение ИСТИНА, если значение аргумента является нечетным числом.",
+   intro: ""
+  },
+  {
+   name: "ЕССЫЛКА",
+   url: "https://support.office.com/en-us/article/ЕССЫЛКА-0f2d7971-6019-40a0-a171-f2d869135665",
+   category: "Информационные функции.",
+   description: "Возвращает значение ИСТИНА, если значение аргумента является ссылкой.",
+   intro: ""
+  },
+  {
+   name: "ЕТЕКСТ",
+   url: "https://support.office.com/en-us/article/Функция-ЕТЕКСТ-0f2d7971-6019-40a0-a171-f2d869135665",
+   category: "Информационные функции.",
+   description: "Возвращает значение ИСТИНА, если значение аргумента является текстом.",
+   intro: ""
+  },
+  {
+   name: "ISO.ОКРВВЕРХ",
+   url: "https://support.office.com/en-us/article/ISOОКРВВЕРХ-e587bb73-6cc2-4113-b664-ff5b09859a83",
+   category: "Математические и тригонометрические функции.",
+   description: "Округляет число в большую сторону до ближайшего целого или кратного.",
+   intro: "2013"
+  },
+  {
+   name: "НОМНЕДЕЛИ.ISO",
+   url: "https://support.office.com/en-us/article/НОМНЕДЕЛИISO-1c2d0afe-d25b-4ab1-8894-8d0520e90e0e",
+   category: "Функции даты и времени.",
+   description: "Возвращает номер недели по ISO для заданной даты.",
+   intro: "2013"
+  },
+  {
+   name: "ПРОЦПЛАТ",
+   url: "https://support.office.com/en-us/article/Функция-ПРОЦПЛАТ-fa58adb6-9d39-4ce0-8f43-75399cea56cc",
+   category: "Финансовые функции.",
+   description: "Вычисляет проценты, выплачиваемые за определенный инвестиционный период.",
+   intro: ""
+  },
+  {
+   name: "JIS",
+   url: "https://support.office.com/en-us/article/Функция-JIS-b72fb1a7-ba52-448a-b7d3-d2610868b7e2",
+   category: "Текстовые функции.",
+   description: "Преобразует полуширинные (однобайтовые) знаки в текстовой строке в полноширинные (двухбайтовые).",
+   intro: ""
+  },
+  {
+   name: "ЭКСЦЕСС",
+   url: "https://support.office.com/en-us/article/Функция-ЭКСЦЕСС-bc3a265c-5da4-4dcb-b7fd-c237789095ab",
+   category: "Статистические функции.",
+   description: "Возвращает эксцесс множества данных.",
+   intro: ""
+  },
+  {
+   name: "НАИБОЛЬШИЙ",
+   url: "https://support.office.com/en-us/article/Функция-НАИБОЛЬШИЙ-3af0af19-1190-42bb-bb8b-01672ec00a64",
+   category: "Статистические функции.",
+   description: "Возвращает k-ое наибольшее значение в множестве данных.",
+   intro: ""
+  },
+  {
+   name: "НОК",
+   url: "https://support.office.com/en-us/article/Функция-НОК-7152b67a-8bb5-4075-ae5c-06ede5563c94",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает наименьшее общее кратное.",
+   intro: ""
+  },
+  {
+   name: ["ЛЕВСИМВ", "ЛЕВБ"],
+   url: "https://support.office.com/en-us/article/Функции-ЛЕВСИМВ-ЛЕВБ-9203d2d2-7960-479b-84c6-1ea52b99640c",
+   category: "Текстовые функции.",
+   description: "Возвращают крайние слева знаки текстового значения.",
+   intro: ""
+  },
+  {
+   name: ["ДЛСТР", "ДЛИНБ"],
+   url: "https://support.office.com/en-us/article/Функции-ДЛСТР-ДЛИНБ-29236f94-cedc-429d-affd-b5e33d2c67cb",
+   category: "Текстовые функции.",
+   description: "Возвращают количество знаков в текстовой строке.",
+   intro: ""
+  },
+  {
+   name: "ЛИНЕЙН",
+   url: "https://support.office.com/en-us/article/Функция-ЛИНЕЙН-84d7d0d9-6e50-4101-977a-fa7abf772b6d",
+   category: "Статистические функции.",
+   description: "Возвращает параметры линейного тренда.",
+   intro: ""
+  },
+  {
+   name: "LN",
+   url: "https://support.office.com/en-us/article/Функция-LN-81fe1ed7-dac9-4acd-ba1d-07a142c6118f",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает натуральный логарифм числа.",
+   intro: ""
+  },
+  {
+   name: "LOG",
+   url: "https://support.office.com/en-us/article/Функция-LOG-4e82f196-1ca9-4747-8fb0-6c4a3abb3280",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает логарифм числа по заданному основанию.",
+   intro: ""
+  },
+  {
+   name: "LOG10",
+   url: "https://support.office.com/en-us/article/Функция-LOG10-c75b881b-49dd-44fb-b6f4-37e3486a0211",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает десятичный логарифм числа.",
+   intro: ""
+  },
+  {
+   name: "ЛГРФПРИБЛ",
+   url: "https://support.office.com/en-us/article/Функция-ЛГРФПРИБЛ-f27462d8-3657-4030-866b-a272c1d18b4b",
+   category: "Статистические функции.",
+   description: "Возвращает параметры экспоненциального тренда.",
+   intro: ""
+  },
+  {
+   name: "ЛОГНОРМОБР",
+   url: "https://support.office.com/en-us/article/Функция-ЛОГНОРМОБР-0bd7631a-2725-482b-afb4-de23df77acfe",
+   category: "Функции совместимости.",
+   description: "Возвращает обратное значение интегрального логарифмического нормального распределения.",
+   intro: ""
+  },
+  {
+   name: "ЛОГНОРМ.РАСП",
+   url: "https://support.office.com/en-us/article/ЛОГНОРМРАСП-eb60d00b-48a9-4217-be2b-6074aee6b070",
+   category: "Статистические функции.",
+   description: "Возвращает интегральное логарифмическое нормальное распределение.",
+   intro: "2010"
+  },
+  {
+   name: "ЛОГНОРМРАСП",
+   url: "https://support.office.com/en-us/article/Функция-ЛОГНОРМРАСП-f8d194cb-9ee3-4034-8c75-1bdb3884100b",
+   category: "Функции совместимости.",
+   description: "Возвращает интегральное логарифмическое нормальное распределение.",
+   intro: ""
+  },
+  {
+   name: "ЛОГНОРМ.ОБР",
+   url: "https://support.office.com/en-us/article/ЛОГНОРМОБР-fe79751a-f1f2-4af8-a0a1-e151b2d4f600",
+   category: "Статистические функции.",
+   description: "Возвращает обратное значение интегрального логарифмического нормального распределения.",
+   intro: "2010"
+  },
+  {
+   name: "ПРОСМОТР",
+   url: "https://support.office.com/en-us/article/Функция-ПРОСМОТР-446d94af-663b-451d-8251-369d5e3864cb",
+   category: "Функции ссылки и поиска.",
+   description: "Ищет значения в векторе или массиве.",
+   intro: ""
+  },
+  {
+   name: "СТРОЧН",
+   url: "https://support.office.com/en-us/article/Функция-СТРОЧН-3f21df02-a80c-44b2-afaf-81358f9fdeb4",
+   category: "Текстовые функции.",
+   description: "Преобразует все буквы текста в строчные.",
+   intro: ""
+  },
+  {
+   name: "ПОИСКПОЗ",
+   url: "https://support.office.com/en-us/article/Функция-ПОИСКПОЗ-e8dffd45-c762-47d6-bf89-533f4a37673a",
+   category: "Функции ссылки и поиска.",
+   description: "Ищет значения в ссылке или массиве.",
+   intro: ""
+  },
+  {
+   name: "МАКС",
+   url: "https://support.office.com/en-us/article/Функция-МАКС-e0012414-9ac8-4b34-9a47-73e662c08098",
+   category: "Статистические функции.",
+   description: "Возвращает наибольшее значение в списке аргументов.",
+   intro: ""
+  },
+  {
+   name: "МАКСА",
+   url: "https://support.office.com/en-us/article/Функция-МАКСА-814bda1e-3840-4bff-9365-2f59ac2ee62d",
+   category: "Статистические функции.",
+   description: "Возвращает наибольшее значение в списке аргументов, включая числа, текст и логические значения.",
+   intro: ""
+  },
+  {
+   name: "МАКСЕСЛИ",
+   url: "https://support.office.com/en-us/article/МАКСЕСЛИ-dfd611e6-da2c-488a-919b-9b6376b28883",
+   category: "Статистические функции.",
+   description: "Возвращает максимальное значение из заданных определенными условиями или критериями ячеек.",
+   intro: "2016"
+  },
+  {
+   name: "МОПРЕД",
+   url: "https://support.office.com/en-us/article/Функция-МОПРЕД-e7bfa857-3834-422b-b871-0ffd03717020",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает определитель матрицы массива.",
+   intro: ""
+  },
+  {
+   name: "МДЛИТ",
+   url: "https://support.office.com/en-us/article/Функция-МДЛИТ-b3786a69-4f20-469a-94ad-33e5b90a763c",
+   category: "Финансовые функции.",
+   description: "Возвращает модифицированную продолжительность Маколея для ценных бумаг с предполагаемой номинальной стоимостью 100 рублей.",
+   intro: ""
+  },
+  {
+   name: "МЕДИАНА",
+   url: "https://support.office.com/en-us/article/Функция-МЕДИАНА-d0916313-4753-414c-8537-ce85bdd967d2",
+   category: "Статистические функции.",
+   description: "Возвращает медиану заданных чисел.",
+   intro: ""
+  },
+  {
+   name: ["ПСТР", "ПСТРБ"],
+   url: "https://support.office.com/en-us/article/Функции-ПСТР-ПСТРБ-d5f9e25c-d7d6-472e-b568-4ecb12433028",
+   category: "Текстовые функции.",
+   description: "Возвращают заданное число знаков из строки текста, начиная с указанной позиции.",
+   intro: ""
+  },
+  {
+   name: "МИН",
+   url: "https://support.office.com/en-us/article/Функция-МИН-61635d12-920f-4ce2-a70f-96f202dcc152",
+   category: "Статистические функции.",
+   description: "Возвращает наименьшее значение в списке аргументов.",
+   intro: ""
+  },
+  {
+   name: "МИНЕСЛИ",
+   url: "https://support.office.com/en-us/article/МИНЕСЛИ-6ca1ddaa-079b-4e74-80cc-72eef32e6599",
+   category: "Статистические функции.",
+   description: "Возвращает минимальное значение из заданных определенными условиями или критериями ячеек.",
+   intro: "2016"
+  },
+  {
+   name: "МИНА",
+   url: "https://support.office.com/en-us/article/Функция-МИНА-245a6f46-7ca5-4dc7-ab49-805341bc31d3",
+   category: "Статистические функции.",
+   description: "Возвращает наименьшее значение в списке аргументов, включая числа, текст и логические значения.",
+   intro: ""
+  },
+  {
+   name: "МИНУТЫ",
+   url: "https://support.office.com/en-us/article/Функция-МИНУТЫ-af728df0-05c4-4b07-9eed-a84801a60589",
+   category: "Функции даты и времени.",
+   description: "Преобразует дату в числовом формате в минуты.",
+   intro: ""
+  },
+  {
+   name: "МОБР",
+   url: "https://support.office.com/en-us/article/Функция-МОБР-11f55086-adde-4c9f-8eb9-59da2d72efc6",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает обратную матрицу массива.",
+   intro: ""
+  },
+  {
+   name: "МВСД",
+   url: "https://support.office.com/en-us/article/Функция-МВСД-b020f038-7492-4fb4-93c1-35c345b53524",
+   category: "Финансовые функции.",
+   description: "Возвращает внутреннюю ставку доходности, при которой положительные и отрицательные денежные потоки имеют разные значения ставки.",
+   intro: ""
+  },
+  {
+   name: "МУМНОЖ",
+   url: "https://support.office.com/en-us/article/Функция-МУМНОЖ-40593ed7-a3cd-4b6b-b9a3-e4ad3c7245eb",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает матричное произведение двух массивов.",
+   intro: ""
+  },
+  {
+   name: "ОСТАТ",
+   url: "https://support.office.com/en-us/article/Функция-ОСТАТ-9b6cd169-b6ee-406a-a97b-edf2a9dc24f3",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает остаток от деления.",
+   intro: ""
+  },
+  {
+   name: "МОДА",
+   url: "https://support.office.com/en-us/article/Функция-МОДА-e45192ce-9122-4980-82ed-4bdc34973120",
+   category: "Функции совместимости.",
+   description: "Возвращает значение моды набора данных.",
+   intro: ""
+  },
+  {
+   name: "МОДА.НСК",
+   url: "https://support.office.com/en-us/article/МОДАНСК-50fd9464-b2ba-4191-b57a-39446689ae8c",
+   category: "Статистические функции.",
+   description: "Возвращает вертикальный массив наиболее часто встречающихся или повторяющихся значений в массиве или диапазоне данных.",
+   intro: "2010"
+  },
+  {
+   name: "МОДА.ОДН",
+   url: "https://support.office.com/en-us/article/МОДАОДН-f1267c16-66c6-4386-959f-8fba5f8bb7f8",
+   category: "Статистические функции.",
+   description: "Возвращает значение моды набора данных.",
+   intro: "2010"
+  },
+  {
+   name: "МЕСЯЦ",
+   url: "https://support.office.com/en-us/article/Функция-МЕСЯЦ-579a2881-199b-48b2-ab90-ddba0eba86e8",
+   category: "Функции даты и времени.",
+   description: "Преобразует дату в числовом формате в месяцы.",
+   intro: ""
+  },
+  {
+   name: "ОКРУГЛТ",
+   url: "https://support.office.com/en-us/article/Функция-ОКРУГЛТ-c299c3b0-15a5-426d-aa4b-d2d5b3baf427",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает число, округленное с требуемой точностью.",
+   intro: ""
+  },
+  {
+   name: "МУЛЬТИНОМ",
+   url: "https://support.office.com/en-us/article/Функция-МУЛЬТИНОМ-6fa6373c-6533-41a2-a45e-a56db1db1bf6",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает мультиномиальный коэффициент множества чисел.",
+   intro: ""
+  },
+  {
+   name: "МЕДИН",
+   url: "https://support.office.com/en-us/article/МЕДИН-c9fe916a-dc26-4105-997d-ba22799853a3",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает матрицу единицы или заданный размер.",
+   intro: "2013"
+  },
+  {
+   name: "Ч",
+   url: "https://support.office.com/en-us/article/Функция-Ч-a624cad1-3635-4208-b54a-29733d1278c9",
+   category: "Информационные функции.",
+   description: "Возвращает значение, преобразованное в число.",
+   intro: ""
+  },
+  {
+   name: "НД",
+   url: "https://support.office.com/en-us/article/Функция-НД-5469c2d1-a90c-4fb5-9bbc-64bd9bb6b47c",
+   category: "Информационные функции.",
+   description: "Возвращает значение ошибки #Н/Д.",
+   intro: ""
+  },
+  {
+   name: "ОТРБИНОМ.РАСП",
+   url: "https://support.office.com/en-us/article/ОТРБИНОМРАСП-c8239f89-c2d0-45bd-b6af-172e570f8599",
+   category: "Статистические функции.",
+   description: "Возвращает отрицательное биномиальное распределение.",
+   intro: "2010"
+  },
+  {
+   name: "ОТРБИНОМРАСП",
+   url: "https://support.office.com/en-us/article/Функция-ОТРБИНОМРАСП-f59b0a37-bae2-408d-b115-a315609ba714",
+   category: "Функции совместимости.",
+   description: "Возвращает отрицательное биномиальное распределение.",
+   intro: ""
+  },
+  {
+   name: "ЧИСТРАБДНИ",
+   url: "https://support.office.com/en-us/article/Функция-ЧИСТРАБДНИ-48e717bf-a7a3-495f-969e-5005e3eb18e7",
+   category: "Функции даты и времени.",
+   description: "Возвращает количество полных рабочих дней между двумя датами.",
+   intro: ""
+  },
+  {
+   name: "ЧИСТРАБДНИ.МЕЖД",
+   url: "https://support.office.com/en-us/article/ЧИСТРАБДНИМЕЖД-a9b26239-4f20-46a1-9ab8-4e925bfd5e28",
+   category: "Функции даты и времени.",
+   description: "Возвращает количество полных рабочих дней в интервале между двумя датами, руководствуясь параметрами, указывающими выходные дни их количество.",
+   intro: "2010"
+  },
+  {
+   name: "НОМИНАЛ",
+   url: "https://support.office.com/en-us/article/Функция-НОМИНАЛ-7f1ae29b-6b92-435e-b950-ad8b190ddd2b",
+   category: "Финансовые функции.",
+   description: "Возвращает номинальную годовую процентную ставку.",
+   intro: ""
+  },
+  {
+   name: "НОРМ.РАСП",
+   url: "https://support.office.com/en-us/article/НОРМРАСП-edb1cc14-a21c-4e53-839d-8082074c9f8d",
+   category: "Статистические функции.",
+   description: "Возвращает нормальное интегральное распределение.",
+   intro: "2010"
+  },
+  {
+   name: "НОРМРАСП",
+   url: "https://support.office.com/en-us/article/Функция-НОРМРАСП-126db625-c53e-4591-9a22-c9ff422d6d58",
+   category: "Функции совместимости.",
+   description: "Возвращает нормальное интегральное распределение.",
+   intro: ""
+  },
+  {
+   name: "НОРМОБР",
+   url: "https://support.office.com/en-us/article/Функция-НОРМОБР-87981ab8-2de0-4cb0-b1aa-e21d4cb879b8",
+   category: "Статистические функции.",
+   description: "Возвращает обратное значение нормального интегрального распределения.",
+   intro: ""
+  },
+  {
+   name: "НОРМ.ОБР",
+   url: "https://support.office.com/en-us/article/НОРМОБР-54b30935-fee7-493c-bedb-2278a9db7e13",
+   category: "Функции совместимости.",
+   description: "Возвращает обратное значение нормального интегрального распределения.",
+   intro: "2010"
+  },
+  {
+   name: "НОРМ.СТ.РАСП",
+   url: "https://support.office.com/en-us/article/НОРМСТРАСП-1e787282-3832-4520-a9ae-bd2a8d99ba88",
+   category: "Статистические функции.",
+   description: "Возвращает стандартное нормальное интегральное распределение.",
+   intro: "2010"
+  },
+  {
+   name: "НОРМСТРАСП",
+   url: "https://support.office.com/en-us/article/Функция-НОРМСТРАСП-463369ea-0345-445d-802a-4ff0d6ce7cac",
+   category: "Функции совместимости.",
+   description: "Возвращает стандартное нормальное интегральное распределение.",
+   intro: ""
+  },
+  {
+   name: "НОРМ.СТ.ОБР",
+   url: "https://support.office.com/en-us/article/НОРМСТОБР-d6d556b4-ab7f-49cd-b526-5a20918452b1",
+   category: "Статистические функции.",
+   description: "Возвращает обратное значение стандартного нормального интегрального распределения.",
+   intro: "2010"
+  },
+  {
+   name: "НОРМСТОБР",
+   url: "https://support.office.com/en-us/article/Функция-НОРМСТОБР-8d1bce66-8e4d-4f3b-967c-30eed61f019d",
+   category: "Функции совместимости.",
+   description: "Возвращает обратное значение стандартного нормального интегрального распределения.",
+   intro: ""
+  },
+  {
+   name: "НЕ",
+   url: "https://support.office.com/en-us/article/Функция-НЕ-9cfc6011-a054-40c7-a140-cd4ba2d87d77",
+   category: "Логические функции.",
+   description: "Меняет логическое значение своего аргумента на противоположное.",
+   intro: ""
+  },
+  {
+   name: "ТДАТА",
+   url: "https://support.office.com/en-us/article/Функция-ТДАТА-3337fd29-145a-4347-b2e6-20c904739c46",
+   category: "Функции даты и времени.",
+   description: "Возвращает текущую дату и время в числовом формате.",
+   intro: ""
+  },
+  {
+   name: "КПЕР",
+   url: "https://support.office.com/en-us/article/Функция-КПЕР-240535b5-6653-4d2d-bfcf-b6a38151d815",
+   category: "Финансовые функции.",
+   description: "Возвращает общее количество периодов выплаты для инвестиции.",
+   intro: ""
+  },
+  {
+   name: "ЧПС",
+   url: "https://support.office.com/en-us/article/Функция-ЧПС-8672cb67-2576-4d07-b67b-ac28acf2a568",
+   category: "Финансовые функции.",
+   description: "Возвращает чистую приведенную стоимость инвестиции, основанной на серии периодических денежных потоков и ставке дисконтирования.",
+   intro: ""
+  },
+  {
+   name: "ЧЗНАЧ",
+   url: "https://support.office.com/en-us/article/ЧЗНАЧ-1b05c8cf-2bfa-4437-af70-596c7ea7d879",
+   category: "Текстовые функции.",
+   description: "Преобразует текст в число независимо от языкового стандарта.",
+   intro: "2013"
+  },
+  {
+   name: "ВОСЬМ.В.ДВ",
+   url: "https://support.office.com/en-us/article/Функция-ВОСЬМВДВ-55383471-3c56-4d27-9522-1a8ec646c589",
+   category: "Инженерные функции.",
+   description: "Преобразует восьмеричное число в двоичное.",
+   intro: ""
+  },
+  {
+   name: "ВОСЬМ.В.ДЕС",
+   url: "https://support.office.com/en-us/article/Функция-ВОСЬМВДЕС-87606014-cb98-44b2-8dbb-e48f8ced1554",
+   category: "Инженерные функции.",
+   description: "Преобразует восьмеричное число в десятичное.",
+   intro: ""
+  },
+  {
+   name: "ВОСЬМ.В.ШЕСТН",
+   url: "https://support.office.com/en-us/article/Функция-ВОСЬМВШЕСТН-912175b4-d497-41b4-a029-221f051b858f",
+   category: "Инженерные функции.",
+   description: "Преобразует восьмеричное число в шестнадцатеричное.",
+   intro: ""
+  },
+  {
+   name: "НЕЧЁТ",
+   url: "https://support.office.com/en-us/article/Функция-НЕЧЁТ-deae64eb-e08a-4c88-8b40-6d0b42575c98",
+   category: "Математические и тригонометрические функции.",
+   description: "Округляет число до ближайшего нечетного целого.",
+   intro: ""
+  },
+  {
+   name: "ЦЕНАПЕРВНЕРЕГ",
+   url: "https://support.office.com/en-us/article/Функция-ЦЕНАПЕРВНЕРЕГ-d7d664a8-34df-4233-8d2b-922bcf6a69e1",
+   category: "Финансовые функции.",
+   description: "Возвращает цену за 100 рублей номинальной стоимости ценных бумаг с нерегулярным (коротким или длинным) первым периодом купона.",
+   intro: ""
+  },
+  {
+   name: "ДОХОДПЕРВНЕРЕГ",
+   url: "https://support.office.com/en-us/article/Функция-ДОХОДПЕРВНЕРЕГ-66bc8b7b-6501-4c93-9ce3-2fd16220fe37",
+   category: "Финансовые функции.",
+   description: "Возвращает доход по ценным бумагам с нерегулярным (коротким или длинным) первым периодом купона.",
+   intro: ""
+  },
+  {
+   name: "ЦЕНАПОСЛНЕРЕГ",
+   url: "https://support.office.com/en-us/article/Функция-ЦЕНАПОСЛНЕРЕГ-fb657749-d200-4902-afaf-ed5445027fc4",
+   category: "Финансовые функции.",
+   description: "Возвращает цену за 100 рублей номинальной стоимости ценных бумаг с нерегулярным (коротким или длинным) последним периодом купона.",
+   intro: ""
+  },
+  {
+   name: "ДОХОДПОСЛНЕРЕГ",
+   url: "https://support.office.com/en-us/article/Функция-ДОХОДПОСЛНЕРЕГ-c873d088-cf40-435f-8d41-c8232fee9238",
+   category: "Финансовые функции.",
+   description: "Возвращает доход по ценным бумагам с нерегулярным (коротким или длинным) последним периодом купона.",
+   intro: ""
+  },
+  {
+   name: "СМЕЩ",
+   url: "https://support.office.com/en-us/article/Функция-СМЕЩ-c8de19ae-dd79-4b9b-a14e-b4d906d11b66",
+   category: "Функции поиска и работы со ссылками.",
+   description: "Возвращает смещение ссылки относительно заданной ссылки.",
+   intro: ""
+  },
+  {
+   name: "ИЛИ",
+   url: "https://support.office.com/en-us/article/Функция-ИЛИ-7d17ad14-8700-4281-b308-00b131e22af0",
+   category: "Логические функции.",
+   description: "Возвращает значение ИСТИНА, если хотя бы один аргумент имеет значение ИСТИНА.",
+   intro: ""
+  },
+  {
+   name: "ПДЛИТ",
+   url: "https://support.office.com/en-us/article/ПДЛИТ-44f33460-5be5-4c90-b857-22308892adaf",
+   category: "Финансовые функции.",
+   description: "Возвращает количество периодов, необходимых инвестиции для достижения заданного значения.",
+   intro: "2013"
+  },
+  {
+   name: "ПИРСОН",
+   url: "https://support.office.com/en-us/article/Функция-ПИРСОН-0c3e30fc-e5af-49c4-808a-3ef66e034c18",
+   category: "Статистические функции.",
+   description: "Возвращает коэффициент корреляции Пирсона.",
+   intro: ""
+  },
+  {
+   name: "ПРОЦЕНТИЛЬ.ИСКЛ",
+   url: "https://support.office.com/en-us/article/ПРОЦЕНТИЛЬИСКЛ-bbaa7204-e9e1-4010-85bf-c31dc5dce4ba",
+   category: "Статистические функции.",
+   description: "Возвращает k-ю процентиль значений в диапазоне, где k может принимать значения от 0 до 1, исключая границы.",
+   intro: "2010"
+  },
+  {
+   name: "ПРОЦЕНТИЛЬ.ВКЛ",
+   url: "https://support.office.com/en-us/article/ПРОЦЕНТИЛЬВКЛ-680f9539-45eb-410b-9a5e-c1355e5fe2ed",
+   category: "Статистические функции.",
+   description: "Возвращает k-ю процентиль для значений диапазона.",
+   intro: "2010"
+  },
+  {
+   name: "ПЕРСЕНТИЛЬ",
+   url: "https://support.office.com/en-us/article/Функция-ПЕРСЕНТИЛЬ-91b43a53-543c-4708-93de-d626debdddca",
+   category: "Функции совместимости.",
+   description: "Возвращает k-ю процентиль для значений диапазона.",
+   intro: ""
+  },
+  {
+   name: "ПРОЦЕНТРАНГ.ИСКЛ",
+   url: "https://support.office.com/en-us/article/ПРОЦЕНТРАНГИСКЛ-d8afee96-b7e2-4a2f-8c01-8fcdedaa6314",
+   category: "Статистические функции.",
+   description: "Возвращает ранг значения в наборе данных как процентную долю набора (от 0 до 1, исключая границы).",
+   intro: "2010"
+  },
+  {
+   name: "ПРОЦЕНТРАНГ.ВКЛ",
+   url: "https://support.office.com/en-us/article/ПРОЦЕНТРАНГВКЛ-149592c9-00c0-49ba-86c1-c1f45b80463a",
+   category: "Статистические функции.",
+   description: "Возвращает процентную норму значения в наборе данных.",
+   intro: "2010"
+  },
+  {
+   name: "ПРОЦЕНТРАНГ",
+   url: "https://support.office.com/en-us/article/Функция-ПРОЦЕНТРАНГ-f1b5836c-9619-4847-9fc9-080ec9024442",
+   category: "Функции совместимости.",
+   description: "Возвращает процентную норму значения в наборе данных.",
+   intro: ""
+  },
+  {
+   name: "ПЕРЕСТ",
+   url: "https://support.office.com/en-us/article/Функция-ПЕРЕСТ-3bd1cb9a-2880-41ab-a197-f246a7a602d3",
+   category: "Статистические функции.",
+   description: "Возвращает количество перестановок для заданного числа объектов.",
+   intro: ""
+  },
+  {
+   name: "ПЕРЕСТА",
+   url: "https://support.office.com/en-us/article/ПЕРЕСТА-6c7d7fdc-d657-44e6-aa19-2857b25cae4e",
+   category: "Статистические функции.",
+   description: "Возвращает количество перестановок для заданного числа объектов (с повторами), которые можно выбрать из общего числа объектов.",
+   intro: "2013"
+  },
+  {
+   name: "ФИ",
+   url: "https://support.office.com/en-us/article/ФИ-23e49bc6-a8e8-402d-98d3-9ded87f6295c",
+   category: "Статистические функции.",
+   description: "Возвращает значение функции плотности для стандартного нормального распределения.",
+   intro: "2013"
+  },
+  {
+   name: "PHONETIC",
+   url: "https://support.office.com/en-us/article/Функция-PHONETIC-9a329dac-0c0f-42f8-9a55-639086988554",
+   category: "Текстовые функции.",
+   description: "Извлекает фонетические (фуригана) знаки из текстовой строки.",
+   intro: ""
+  },
+  {
+   name: "ПИ",
+   url: "https://support.office.com/en-us/article/Функция-ПИ-264199d0-a3ba-46b8-975a-c4a04608989b",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает число пи.",
+   intro: ""
+  },
+  {
+   name: "ПЛТ",
+   url: "https://support.office.com/en-us/article/Функция-ПЛТ-0214da64-9a63-4996-bc20-214433fa6441",
+   category: "Финансовые функции.",
+   description: "Возвращает регулярный платеж годичной ренты.",
+   intro: ""
+  },
+  {
+   name: "ПУАССОН.РАСП",
+   url: "https://support.office.com/en-us/article/ПУАССОНРАСП-8fe148ff-39a2-46cb-abf3-7772695d9636",
+   category: "Статистические функции.",
+   description: "Возвращает распределение Пуассона.",
+   intro: "2010"
+  },
+  {
+   name: "ПУАССОН",
+   url: "https://support.office.com/en-us/article/Функция-ПУАССОН-d81f7294-9d7c-4f75-bc23-80aa8624173a",
+   category: "Функции совместимости.",
+   description: "Возвращает распределение Пуассона.",
+   intro: ""
+  },
+  {
+   name: "СТЕПЕНЬ",
+   url: "https://support.office.com/en-us/article/Функция-СТЕПЕНЬ-d3f2908b-56f4-4c3f-895a-07fb519c362a",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает результат возведения числа в степень.",
+   intro: ""
+  },
+  {
+   name: "ОСПЛТ",
+   url: "https://support.office.com/en-us/article/ОСПЛТ-c370d9e3-7749-4ca4-beea-b06c6ac95e1b",
+   category: "Финансовые функции.",
+   description: "Возвращает платеж с основного вложенного капитала за данный период.",
+   intro: ""
+  },
+  {
+   name: "ЦЕНА",
+   url: "https://support.office.com/en-us/article/Функция-ЦЕНА-3ea9deac-8dfa-436f-a7c8-17ea02c21b0a",
+   category: "Финансовые функции.",
+   description: "Возвращает цену за 100 рублей номинальной стоимости ценных бумаг, по которым выплачивается периодический процент.",
+   intro: ""
+  },
+  {
+   name: "ЦЕНАСКИДКА",
+   url: "https://support.office.com/en-us/article/Функция-ЦЕНАСКИДКА-d06ad7c1-380e-4be7-9fd9-75e3079acfd3",
+   category: "Финансовые функции.",
+   description: "Возвращает цену за 100 рублей номинальной стоимости ценных бумаг, на которые сделана скидка.",
+   intro: ""
+  },
+  {
+   name: "ЦЕНАПОГАШ",
+   url: "https://support.office.com/en-us/article/Функция-ЦЕНАПОГАШ-52c3b4da-bc7e-476a-989f-a95f675cae77",
+   category: "Финансовые функции.",
+   description: "Возвращает цену за 100 рублей номинальной стоимости ценных бумаг, по которым процент выплачивается в срок погашения.",
+   intro: ""
+  },
+  {
+   name: "ВЕРОЯТНОСТЬ",
+   url: "https://support.office.com/en-us/article/Функция-ВЕРОЯТНОСТЬ-9ac30561-c81c-4259-8253-34f0a238fc49",
+   category: "Статистические функции.",
+   description: "Возвращает вероятность того, что значение из диапазона находится внутри заданных пределов.",
+   intro: ""
+  },
+  {
+   name: "ПРОИЗВЕД",
+   url: "https://support.office.com/en-us/article/Функция-ПРОИЗВЕД-8e6b5b24-90ee-4650-aeec-80982a0512ce",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает произведение аргументов.",
+   intro: ""
+  },
+  {
+   name: "ПРОПНАЧ",
+   url: "https://support.office.com/en-us/article/Функция-ПРОПНАЧ-52a5a283-e8b2-49be-8506-b2887b889f94",
+   category: "Текстовые функции.",
+   description: "Преобразует первую букву в каждом слове текста в прописную.",
+   intro: ""
+  },
+  {
+   name: "ПС",
+   url: "https://support.office.com/en-us/article/Функция-ПС-23879d31-0e02-4321-be01-da16e8168cbd",
+   category: "Финансовые функции.",
+   description: "Возвращает приведенную (к текущему моменту) стоимость инвестиции.",
+   intro: ""
+  },
+  {
+   name: "КВАРТИЛЬ",
+   url: "https://support.office.com/en-us/article/Функция-КВАРТИЛЬ-93cf8f62-60cd-4fdb-8a92-8451041e1a2a",
+   category: "Функции совместимости.",
+   description: "Возвращает квартиль набора данных.",
+   intro: ""
+  },
+  {
+   name: "КВАРТИЛЬ.ИСКЛ",
+   url: "https://support.office.com/en-us/article/КВАРТИЛЬИСКЛ-5a355b7a-840b-4a01-b0f1-f538c2864cad",
+   category: "Статистические функции.",
+   description: "Возвращает квартиль набора данных на основе значений процентили из диапазона от 0 до 1, исключая границы.",
+   intro: "2010"
+  },
+  {
+   name: "КВАРТИЛЬ.ВКЛ",
+   url: "https://support.office.com/en-us/article/КВАРТИЛЬВКЛ-1bbacc80-5075-42f1-aed6-47d735c4819d",
+   category: "Статистические функции.",
+   description: "Возвращает квартиль набора данных.",
+   intro: "2010"
+  },
+  {
+   name: "ЧАСТНОЕ",
+   url: "https://support.office.com/en-us/article/Функция-ЧАСТНОЕ-9f7bf099-2a18-4282-8fa4-65290cc99dee",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает целую часть частного при делении.",
+   intro: ""
+  },
+  {
+   name: "РАДИАНЫ",
+   url: "https://support.office.com/en-us/article/Функция-РАДИАНЫ-ac409508-3d48-45f5-ac02-1497c92de5bf",
+   category: "Математические и тригонометрические функции.",
+   description: "Преобразует градусы в радианы.",
+   intro: ""
+  },
+  {
+   name: "СЛЧИС",
+   url: "https://support.office.com/en-us/article/Функция-СЛЧИС-4cbfa695-8869-4788-8d90-021ea9f5be73",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает случайное число в интервале от 0 до 1.",
+   intro: ""
+  },
+  {
+   name: "СЛУЧМЕЖДУ",
+   url: "https://support.office.com/en-us/article/Функция-СЛУЧМЕЖДУ-4cc7f0d1-87dc-4eb7-987f-a469ab381685",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает случайное число в интервале между двумя заданными числами.",
+   intro: ""
+  },
+  {
+   name: "РАНГ.СР",
+   url: "https://support.office.com/en-us/article/РАНГСР-bd406a6f-eb38-4d73-aa8e-6d1c3c72e83a",
+   category: "Статистические функции.",
+   description: "Возвращает ранг числа в списке чисел.",
+   intro: "2010"
+  },
+  {
+   name: "РАНГ.РВ",
+   url: "https://support.office.com/en-us/article/Функция-РАНГРВ-284858ce-8ef6-450e-b662-26245be04a40",
+   category: "Статистические функции.",
+   description: "Возвращает ранг числа в списке чисел.",
+   intro: "2010"
+  },
+  {
+   name: "РАНГ",
+   url: "https://support.office.com/en-us/article/Функция-РАНГ-6a2fc49d-1831-4a03-9d8c-c279cf99f723",
+   category: "Функции совместимости.",
+   description: "Возвращает ранг числа в списке чисел.",
+   intro: ""
+  },
+  {
+   name: "СТАВКА",
+   url: "https://support.office.com/en-us/article/Функция-СТАВКА-9f665657-4a7e-4bb7-a030-83fc59e748ce",
+   category: "Финансовые функции.",
+   description: "Возвращает процентную ставку по аннуитету за один период.",
+   intro: ""
+  },
+  {
+   name: "ПОЛУЧЕНО",
+   url: "https://support.office.com/en-us/article/Функция-ПОЛУЧЕНО-7a3f8b93-6611-4f81-8576-828312c9b5e5",
+   category: "Финансовые функции.",
+   description: "Возвращает сумму, полученную к сроку погашения полностью инвестированных ценных бумаг.",
+   intro: ""
+  },
+  {
+   name: "РЕГИСТРАТОР.ИД",
+   url: "https://support.office.com/en-us/article/Функция-РЕГИСТРАТОРИД-f8f0af0f-fd66-4704-a0f2-87b27b175b50",
+   category: "Функции надстройки и автоматизации.",
+   description: "Возвращает регистрационный идентификатор для указанной библиотеки динамической компоновки или ранее зарегистрированного кодового ресурса.",
+   intro: ""
+  },
+  {
+   name: "ЗАМЕНИТЬ, ЗАМЕНИТЬБ",
+   url: "https://support.office.com/en-us/article/Функция-ЗАМЕНИТЬ-ЗАМЕНИТЬБ-8d799074-2425-4a8a-84bc-82472868878a",
+   category: "Текстовые функции.",
+   description: "Заменяют знаки в тексте.",
+   intro: ""
+  },
+  {
+   name: "ПОВТОР",
+   url: "https://support.office.com/en-us/article/Функция-ПОВТОР-04c4d778-e712-43b4-9c15-d656582bb061",
+   category: "Текстовые функции.",
+   description: "Повторяет текст заданное число раз.",
+   intro: ""
+  },
+  {
+   name: ["ПРАВСИМВ", "ПРАВБ"],
+   url: "https://support.office.com/en-us/article/Функции-ПРАВСИМВ-ПРАВБ-240267ee-9afa-4639-a02b-f19e1786cf2f",
+   category: "Текстовые функции.",
+   description: "Возвращают крайние справа знаки текстовой строки.",
+   intro: ""
+  },
+  {
+   name: "РИМСКОЕ",
+   url: "https://support.office.com/en-us/article/Функция-РИМСКОЕ-d6b0b99e-de46-4704-a518-b45a0f8b56f5",
+   category: "Математические и тригонометрические функции.",
+   description: "Преобразует арабские числа в римские в виде текста.",
+   intro: ""
+  },
+  {
+   name: "ОКРУГЛ",
+   url: "https://support.office.com/en-us/article/Функция-ОКРУГЛ-c018c5d8-40fb-4053-90b1-b3e7f61a213c",
+   category: "Математические и тригонометрические функции.",
+   description: "Округляет число до указанного количества десятичных разрядов.",
+   intro: ""
+  },
+  {
+   name: "ОКРУГЛВНИЗ",
+   url: "https://support.office.com/en-us/article/Функция-ОКРУГЛВНИЗ-2ec94c73-241f-4b01-8c6f-17e6d7968f53",
+   category: "Математические и тригонометрические функции.",
+   description: "Округляет число до ближайшего меньшего по модулю значения.",
+   intro: ""
+  },
+  {
+   name: "ОКРУГЛВВЕРХ",
+   url: "https://support.office.com/en-us/article/Функция-ОКРУГЛВВЕРХ-f8bc9b23-e795-47db-8703-db171d0c42a7",
+   category: "Математические и тригонометрические функции.",
+   description: "Округляет число до ближайшего большего по модулю значения.",
+   intro: ""
+  },
+  {
+   name: "СТРОКА",
+   url: "https://support.office.com/en-us/article/Функция-СТРОКА-3a63b74a-c4d0-4093-b49a-e76eb49a6d8d",
+   category: "Функции ссылки и поиска.",
+   description: "Возвращает номер строки, определяемой ссылкой.",
+   intro: ""
+  },
+  {
+   name: "ЧСТРОК",
+   url: "https://support.office.com/en-us/article/Функция-ЧСТРОК-b592593e-3fc2-47f2-bec1-bda493811597",
+   category: "Функции поиска и работы со ссылками.",
+   description: "Возвращает количество строк в ссылке.",
+   intro: ""
+  },
+  {
+   name: "ЭКВ.СТАВКА",
+   url: "https://support.office.com/en-us/article/ЭКВСТАВКА-6f5822d8-7ef1-4233-944c-79e8172930f4",
+   category: "Финансовые функции.",
+   description: "Возвращает эквивалентную процентную ставку для роста инвестиции.",
+   intro: "2013"
+  },
+  {
+   name: "КВПИРСОН",
+   url: "https://support.office.com/en-us/article/Функция-КВПИРСОН-d7161715-250d-4a01-b80d-a8364f2be08f",
+   category: "Статистические функции.",
+   description: "Возвращает квадрат коэффициента корреляции Пирсона.",
+   intro: ""
+  },
+  {
+   name: "ДРВ",
+   url: "https://support.office.com/en-us/article/Функция-ДРВ-e0cc001a-56f0-470a-9b19-9455dc0eb593",
+   category: "Функции поиска и работы со ссылками.",
+   description: "Извлекает данные реального времени из программ, поддерживающих автоматизацию COM.",
+   intro: ""
+  },
+  {
+   name: ["ПОИСК", "ПОИСКБ"],
+   url: "https://support.office.com/en-us/article/Функции-ПОИСК-ПОИСКБ-9ab04538-0e55-4719-a72e-b6f54513b495",
+   category: "Текстовые функции.",
+   description: "Выполняют поиск вхождения одного текстового значения в другом (без учета регистра).",
+   intro: ""
+  },
+  {
+   name: "SEC",
+   url: "https://support.office.com/en-us/article/SEC-ff224717-9c87-4170-9b58-d069ced6d5f7",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает секанс угла.",
+   intro: "2013"
+  },
+  {
+   name: "SECH",
+   url: "https://support.office.com/en-us/article/SECH-e05a789f-5ff7-4d7f-984a-5edb9b09556f",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает гиперболический секанс угла.",
+   intro: "2013"
+  },
+  {
+   name: "СЕКУНДЫ",
+   url: "https://support.office.com/en-us/article/Функция-СЕКУНДЫ-740d1cfc-553c-4099-b668-80eaa24e8af1",
+   category: "Функции даты и времени.",
+   description: "Преобразует дату в числовом формате в секунды.",
+   intro: ""
+  },
+  {
+   name: "РЯД.СУММ",
+   url: "https://support.office.com/en-us/article/Функция-РЯДСУММ-a3ab25b5-1093-4f5b-b084-96c49087f637",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает сумму степенного ряда, вычисленную по формуле.",
+   intro: ""
+  },
+  {
+   name: "ЛИСТ",
+   url: "https://support.office.com/en-us/article/ЛИСТ-44718b6f-8b87-47a1-a9d6-b701c06cff24",
+   category: "Информационные функции.",
+   description: "Возвращает номер листа, на который имеется ссылка.",
+   intro: "2013"
+  },
+  {
+   name: "ЛИСТЫ",
+   url: "https://support.office.com/en-us/article/ЛИСТЫ-770515eb-e1e8-45ce-8066-b557e5e4b80b",
+   category: "Информационные функции.",
+   description: "Возвращает количество листов в ссылке.",
+   intro: "2013"
+  },
+  {
+   name: "ЗНАК",
+   url: "https://support.office.com/en-us/article/Функция-ЗНАК-109c932d-fcdc-4023-91f1-2dd0e916a1d8",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает знак числа.",
+   intro: ""
+  },
+  {
+   name: "SIN",
+   url: "https://support.office.com/en-us/article/Функция-SIN-cf0e3432-8b9e-483c-bc55-a76651c95602",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает синус заданного угла.",
+   intro: ""
+  },
+  {
+   name: "SINH",
+   url: "https://support.office.com/en-us/article/Функция-SINH-1e4e8b9f-2b65-43fc-ab8a-0a37f4081fa7",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает гиперболический синус числа.",
+   intro: ""
+  },
+  {
+   name: "СКОС",
+   url: "https://support.office.com/en-us/article/Функция-СКОС-bdf49d86-b1ef-4804-a046-28eaea69c9fa",
+   category: "Статистические функции.",
+   description: "Возвращает асимметрию распределения.",
+   intro: ""
+  },
+  {
+   name: "СКОС.Г",
+   url: "https://support.office.com/en-us/article/СКОСГ-76530a5c-99b9-48a1-8392-26632d542fcb",
+   category: "Статистические функции.",
+   description: "Возвращает асимметрию распределения на основе заполнения: характеристика степени асимметрии распределения относительно его среднего.",
+   intro: "2013"
+  },
+  {
+   name: "АПЛ",
+   url: "https://support.office.com/en-us/article/Функция-АПЛ-cdb666e5-c1c6-40a7-806a-e695edc2f1c8",
+   category: "Финансовые функции.",
+   description: "Возвращает величину амортизации актива за один период, рассчитанную линейным методом.",
+   intro: ""
+  },
+  {
+   name: "НАКЛОН",
+   url: "https://support.office.com/en-us/article/Функция-НАКЛОН-11fb8f97-3117-4813-98aa-61d7e01276b9",
+   category: "Статистические функции.",
+   description: "Возвращает наклон линии линейной регрессии.",
+   intro: ""
+  },
+  {
+   name: "НАИМЕНЬШИЙ",
+   url: "https://support.office.com/en-us/article/Функция-НАИМЕНЬШИЙ-17da8222-7c82-42b2-961b-14c45384df07",
+   category: "Статистические функции.",
+   description: "Возвращает k-ое наименьшее значение в множестве данных.",
+   intro: ""
+  },
+  {
+   name: "SQL.REQUEST",
+   url: "https://support.office.com/en-us/article/Функция-SQLREQUEST-4da47f3a-ff08-46ed-886c-3329aa5df008",
+   category: "Надстройки и автоматизация.",
+   description: "Подключается к внешнему источнику данных и выполняет запрос из листа. Результат возвращается в виде массива. Дополнительное программирование не требуется.",
+   intro: ""
+  },
+  {
+   name: "КОРЕНЬ",
+   url: "https://support.office.com/en-us/article/Функция-КОРЕНЬ-654975c2-05c4-4831-9a24-2c65e4040fdf",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает положительное значение квадратного корня.",
+   intro: ""
+  },
+  {
+   name: "КОРЕНЬПИ",
+   url: "https://support.office.com/en-us/article/Функция-КОРЕНЬПИ-1fb4e63f-9b51-46d6-ad68-b3e7a8b519b4",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает квадратный корень из значения выражения (число * пи).",
+   intro: ""
+  },
+  {
+   name: "НОРМАЛИЗАЦИЯ",
+   url: "https://support.office.com/en-us/article/Функция-НОРМАЛИЗАЦИЯ-81d66554-2d54-40ec-ba83-6437108ee775",
+   category: "Статистические функции.",
+   description: "Возвращает нормализованное значение.",
+   intro: ""
+  },
+  {
+   name: "СТАНДОТКЛОН",
+   url: "https://support.office.com/en-us/article/Функция-СТАНДОТКЛОН-51fecaaa-231e-4bbb-9230-33650a72c9b0",
+   category: "Функции совместимости.",
+   description: "Оценивает стандартное отклонение по выборке.",
+   intro: ""
+  },
+  {
+   name: "СТАНДОТКЛОН.Г",
+   url: "https://support.office.com/en-us/article/СТАНДОТКЛОНГ-6e917c05-31a0-496f-ade7-4f4e7462f285",
+   category: "Статистические функции.",
+   description: "Вычисляет стандартное отклонение по генеральной совокупности.",
+   intro: "2010"
+  },
+  {
+   name: "СТАНДОТКЛОН.В",
+   url: "https://support.office.com/en-us/article/СТАНДОТКЛОНВ-7d69cf97-0c1f-4acf-be27-f3e83904cc23",
+   category: "Статистические функции.",
+   description: "Оценивает стандартное отклонение по выборке.",
+   intro: "2010"
+  },
+  {
+   name: "СТАНДОТКЛОНА",
+   url: "https://support.office.com/en-us/article/Функция-СТАНДОТКЛОНА-5ff38888-7ea5-48de-9a6d-11ed73b29e9d",
+   category: "Статистические функции.",
+   description: "Оценивает стандартное отклонение по выборке, включая числа, текст и логические значения.",
+   intro: ""
+  },
+  {
+   name: "СТАНДОТКЛОНП",
+   url: "https://support.office.com/en-us/article/Функция-СТАНДОТКЛОНП-1f7c1c88-1bec-4422-8242-e9f7dc8bb195",
+   category: "Функции совместимости.",
+   description: "Вычисляет стандартное отклонение по генеральной совокупности.",
+   intro: ""
+  },
+  {
+   name: "СТАНДОТКЛОНПА",
+   url: "https://support.office.com/en-us/article/Функция-СТАНДОТКЛОНПА-5578d4d6-455a-4308-9991-d405afe2c28c",
+   category: "Статистические функции.",
+   description: "Вычисляет стандартное отклонение по генеральной совокупности, включая числа, текст и логические значения.",
+   intro: ""
+  },
+  {
+   name: "СТОШYX",
+   url: "https://support.office.com/en-us/article/Функция-СТОШYX-6ce74b2c-449d-4a6e-b9ac-f9cef5ba48ab",
+   category: "Статистические функции.",
+   description: "Возвращает стандартную ошибку предсказанных значений y для каждого значения x в регрессии.",
+   intro: ""
+  },
+  {
+   name: "ПОДСТАВИТЬ",
+   url: "https://support.office.com/en-us/article/Функция-ПОДСТАВИТЬ-6434944e-a904-4336-a9b0-1e58df3bc332",
+   category: "Текстовые функции.",
+   description: "Заменяет в текстовой строке старый текст новым.",
+   intro: ""
+  },
+  {
+   name: "ПРОМЕЖУТОЧНЫЕ.ИТОГИ",
+   url: "https://support.office.com/en-us/article/Функция-ПРОМЕЖУТОЧНЫЕИТОГИ-7b027003-f060-4ade-9040-e478765b9939",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает промежуточный итог в списке или базе данных.",
+   intro: ""
+  },
+  {
+   name: "СУММ",
+   url: "https://support.office.com/en-us/article/Функция-СУММ-043e1c7d-7726-4e80-8f32-07b23e057f89",
+   category: "Математические и тригонометрические функции.",
+   description: "Суммирует аргументы.",
+   intro: ""
+  },
+  {
+   name: "СУММЕСЛИ",
+   url: "https://support.office.com/en-us/article/Функция-СУММЕСЛИ-169b8c99-c05c-4483-a712-1697a653039b",
+   category: "Математические и тригонометрические функции.",
+   description: "Суммирует ячейки, удовлетворяющие заданному условию.",
+   intro: ""
+  },
+  {
+   name: "СУММЕСЛИМН",
+   url: "https://support.office.com/en-us/article/Функция-СУММЕСЛИМН-c9e748f5-7ea7-455d-9406-611cebce642b",
+   category: "Математические и тригонометрические функции.",
+   description: "Суммирует ячейки в диапазоне, удовлетворяющие нескольким условиям.",
+   intro: ""
+  },
+  {
+   name: "СУММПРОИЗВ",
+   url: "https://support.office.com/en-us/article/Функция-СУММПРОИЗВ-16753e75-9f68-4874-94ac-4d2145a2fd2e",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает сумму произведений соответствующих элементов массивов.",
+   intro: ""
+  },
+  {
+   name: "СУММКВ",
+   url: "https://support.office.com/en-us/article/Функция-СУММКВ-e3313c02-51cc-4963-aae6-31442d9ec307",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает сумму квадратов аргументов.",
+   intro: ""
+  },
+  {
+   name: "СУММРАЗНКВ",
+   url: "https://support.office.com/en-us/article/Функция-СУММРАЗНКВ-9e599cc5-5399-48e9-a5e0-e37812dfa3e9",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает сумму разностей квадратов соответствующих значений в двух массивах.",
+   intro: ""
+  },
+  {
+   name: "СУММСУММКВ",
+   url: "https://support.office.com/en-us/article/Функция-СУММСУММКВ-826b60b4-0aa2-4e5e-81d2-be704d3d786f",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает сумму сумм квадратов соответствующих элементов двух массивов.",
+   intro: ""
+  },
+  {
+   name: "СУММКВРАЗН",
+   url: "https://support.office.com/en-us/article/Функция-СУММКВРАЗН-9d144ac1-4d79-43de-b524-e2ecee23b299",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает сумму квадратов разностей соответствующих значений в двух массивах.",
+   intro: ""
+  },
+  {
+   name: "ПЕРЕКЛЮЧ",
+   url: "https://support.office.com/en-us/article/ПЕРЕКЛЮЧ-47ab33c0-28ce-4530-8a45-d532ec4aa25e",
+   category: "Логические функции.",
+   description: "Сравнивает выражение со списком значений и возвращает результат, соответствующий первому совпадающему значению. Если совпадения не обнаружены, может быть возвращено заданное значение по умолчанию.",
+   intro: "2016"
+  },
+  {
+   name: "АСЧ",
+   url: "https://support.office.com/en-us/article/Функция-АСЧ-069f8106-b60b-4ca2-98e0-2a0f206bdb27",
+   category: "Финансовые функции.",
+   description: "Возвращает величину амортизации актива за данный период, рассчитанную методом суммы годовых чисел.",
+   intro: ""
+  },
+  {
+   name: "Т",
+   url: "https://support.office.com/en-us/article/Функция-Т-fb83aeec-45e7-4924-af95-53e073541228",
+   category: "Текстовые функции.",
+   description: "Преобразует аргументы в текст.",
+   intro: ""
+  },
+  {
+   name: "TAN",
+   url: "https://support.office.com/en-us/article/Функция-TAN-08851a40-179f-4052-b789-d7f699447401",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает тангенс числа.",
+   intro: ""
+  },
+  {
+   name: "TANH",
+   url: "https://support.office.com/en-us/article/Функция-TANH-017222f0-a0c3-4f69-9787-b3202295dc6c",
+   category: "Математические и тригонометрические функции.",
+   description: "Возвращает гиперболический тангенс числа.",
+   intro: ""
+  },
+  {
+   name: "РАВНОКЧЕК",
+   url: "https://support.office.com/en-us/article/Функция-РАВНОКЧЕК-2ab72d90-9b4d-4efe-9fc2-0f81f2c19c8c",
+   category: "Финансовые функции.",
+   description: "Возвращает эквивалентный облигации доход по казначейскому векселю.",
+   intro: ""
+  },
+  {
+   name: "ЦЕНАКЧЕК",
+   url: "https://support.office.com/en-us/article/Функция-ЦЕНАКЧЕК-eacca992-c29d-425a-9eb8-0513fe6035a2",
+   category: "Финансовые функции.",
+   description: "Возвращает цену за 100 рублей номинальной стоимости для казначейского векселя.",
+   intro: ""
+  },
+  {
+   name: "ДОХОДКЧЕК",
+   url: "https://support.office.com/en-us/article/Функция-ДОХОДКЧЕК-6d381232-f4b0-4cd5-8e97-45b9c03468ba",
+   category: "Финансовые функции.",
+   description: "Возвращает доходность по казначейскому векселю.",
+   intro: ""
+  },
+  {
+   name: "СТЬЮДРАСП",
+   url: "https://support.office.com/en-us/article/СТЬЮДРАСП-4329459f-ae91-48c2-bba8-1ead1c6c21b2",
+   category: "Статистические функции.",
+   description: "Возвращает процентные точки (вероятность) для t-распределения Стьюдента.",
+   intro: "2010"
+  },
+  {
+   name: "СТЬЮДЕНТ.РАСП.2Х",
+   url: "https://support.office.com/en-us/article/Функция-СТЬЮДЕНТРАСП2Х-198e9340-e360-4230-bd21-f52f22ff5c28",
+   category: "Статистические функции.",
+   description: "Возвращает процентные точки (вероятность) для t-распределения Стьюдента.",
+   intro: "2010"
+  },
+  {
+   name: "СТЬЮДЕНТ.РАСП.ПХ",
+   url: "https://support.office.com/en-us/article/СТЬЮДЕНТРАСППХ-20a30020-86f9-4b35-af1f-7ef6ae683eda",
+   category: "Статистические функции.",
+   description: "Возвращает t-распределение Стьюдента.",
+   intro: "2010"
+  },
+  {
+   name: "СТЬЮДРАСП",
+   url: "https://support.office.com/en-us/article/Функция-СТЬЮДРАСП-630a7695-4021-4853-9468-4a1f9dcdd192",
+   category: "Функции совместимости.",
+   description: "Возвращает t-распределение Стьюдента.",
+   intro: ""
+  },
+  {
+   name: "ТЕКСТ",
+   url: "https://support.office.com/en-us/article/Функция-ТЕКСТ-20d5ac4d-7b94-49fd-bb38-93d29371225c",
+   category: "Текстовые функции.",
+   description: "Форматирует число и преобразует его в текст.",
+   intro: ""
+  },
+  {
+   name: "ОБЪЕДИНИТЬ",
+   url: "https://support.office.com/en-us/article/ОБЪЕДИНИТЬ-357b449a-ec91-49d0-80c3-0e8fc845691c",
+   category: "Текстовые функции.",
+   description: "Объединяет текст из нескольких диапазонов или строк, вставляя между текстовыми значениями указанный разделитель. Если в качестве разделителя используется пустая текстовая строка, функция объединит диапазоны.",
+   intro: "2016"
+  },
+  {
+   name: "ВРЕМЯ",
+   url: "https://support.office.com/en-us/article/Функция-ВРЕМЯ-9a5aff99-8f7d-4611-845e-747d0b8d5457",
+   category: "Функции даты и времени.",
+   description: "Возвращает заданное время в числовом формате.",
+   intro: ""
+  },
+  {
+   name: "ВРЕМЗНАЧ",
+   url: "https://support.office.com/en-us/article/Функция-ВРЕМЗНАЧ-0b615c12-33d8-4431-bf3d-f3eb6d186645",
+   category: "Функции даты и времени.",
+   description: "Преобразует время из текстового формата в числовой.",
+   intro: ""
+  },
+  {
+   name: "СТЬЮДЕНТ.ОБР",
+   url: "https://support.office.com/en-us/article/СТЬЮДЕНТОБР-2908272b-4e61-4942-9df9-a25fec9b0e2e",
+   category: "Статистические функции.",
+   description: "Возвращает значение t для t-распределения Стьюдента как функцию вероятности и степеней свободы.",
+   intro: "2010"
+  },
+  {
+   name: "СТЬЮДЕНТ.ОБР.2Х",
+   url: "https://support.office.com/en-us/article/СТЬЮДЕНТОБР2Х-ce72ea19-ec6c-4be7-bed2-b9baf2264f17",
+   category: "Статистические функции.",
+   description: "Возвращает обратное t-распределение Стьюдента.",
+   intro: "2010"
+  },
+  {
+   name: "СТЬЮДРАСПОБР",
+   url: "https://support.office.com/en-us/article/Функция-СТЬЮДРАСПОБР-a7c85b9d-90f5-41fe-9ca5-1cd2f3e1ed7c",
+   category: "Функции совместимости.",
+   description: "Возвращает обратное t-распределение Стьюдента.",
+   intro: ""
+  },
+  {
+   name: "СЕГОДНЯ",
+   url: "https://support.office.com/en-us/article/Функция-СЕГОДНЯ-5eb3078d-a82c-4736-8930-2f51a028fdd9",
+   category: "Функции даты и времени.",
+   description: "Возвращает текущую дату в числовом формате.",
+   intro: ""
+  },
+  {
+   name: "ТРАНСП",
+   url: "https://support.office.com/en-us/article/Функция-ТРАНСП-ed039415-ed8a-4a81-93e9-4b6dfac76027",
+   category: "Функции поиска и работы со ссылками.",
+   description: "Возвращает транспонированный массив.",
+   intro: ""
+  },
+  {
+   name: "ТЕНДЕНЦИЯ",
+   url: "https://support.office.com/en-us/article/Функция-ТЕНДЕНЦИЯ-e2f135f0-8827-4096-9873-9a7cf7b51ef1",
+   category: "Статистические функции.",
+   description: "Возвращает значения в соответствии с линейным трендом.",
+   intro: ""
+  },
+  {
+   name: "СЖПРОБЕЛЫ",
+   url: "https://support.office.com/en-us/article/Функция-СЖПРОБЕЛЫ-410388fa-c5df-49c6-b16c-9e5630b479f9",
+   category: "Текстовые функции.",
+   description: "Удаляет из текста пробелы.",
+   intro: ""
+  },
+  {
+   name: "УРЕЗСРЕДНЕЕ",
+   url: "https://support.office.com/en-us/article/Функция-УРЕЗСРЕДНЕЕ-d90c9878-a119-4746-88fa-63d988f511d3",
+   category: "Статистические функции.",
+   description: "Возвращает среднее внутренности множества данных.",
+   intro: ""
+  },
+  {
+   name: "ИСТИНА",
+   url: "https://support.office.com/en-us/article/Функция-ИСТИНА-7652c6e3-8987-48d0-97cd-ef223246b3fb",
+   category: "Логические функции.",
+   description: "Возвращает логическое значение ИСТИНА.",
+   intro: ""
+  },
+  {
+   name: "ОТБР",
+   url: "https://support.office.com/en-us/article/Функция-ОТБР-8b86a64c-3127-43db-ba14-aa5ceb292721",
+   category: "Математические и тригонометрические функции.",
+   description: "Отбрасывает дробную часть числа.",
+   intro: ""
+  },
+  {
+   name: "СТЬЮДЕНТ.ТЕСТ",
+   url: "https://support.office.com/en-us/article/СТЬЮДЕНТТЕСТ-d4e08ec3-c545-485f-962e-276f7cbed055",
+   category: "Статистические функции.",
+   description: "Возвращает вероятность, соответствующую проверке по критерию Стьюдента.",
+   intro: "2010"
+  },
+  {
+   name: "ТТЕСТ",
+   url: "https://support.office.com/en-us/article/Функция-ТТЕСТ-1696ffc1-4811-40fd-9d13-a0eaad83c7ae",
+   category: "Функции совместимости.",
+   description: "Возвращает вероятность, соответствующую проверке по критерию Стьюдента.",
+   intro: ""
+  },
+  {
+   name: "ТИП",
+   url: "https://support.office.com/en-us/article/Функция-ТИП-45b4e688-4bc3-48b3-a105-ffa892995899",
+   category: "Информационные функции.",
+   description: "Возвращает число, обозначающее тип данных значения.",
+   intro: ""
+  },
+  {
+   name: "ЮНИСИМВ",
+   url: "https://support.office.com/en-us/article/ЮНИСИМВ-ffeb64f5-f131-44c6-b332-5cd72f0659b8",
+   category: "Текстовые функции.",
+   description: "Возвращает символ Юникод, на который ссылается заданное числовое значение.",
+   intro: "2013"
+  },
+  {
+   name: "UNICODE",
+   url: "https://support.office.com/en-us/article/UNICODE-adb74aaa-a2a5-4dde-aff6-966e4e81f16f",
+   category: "Текстовые функции.",
+   description: "Возвращает число (кодовую страницу), которая соответствует первому символу текста.",
+   intro: "2013"
+  },
+  {
+   name: "ПРОПИСН",
+   url: "https://support.office.com/en-us/article/Функция-ПРОПИСН-c11f29b3-d1a3-4537-8df6-04d0049963d6",
+   category: "Текстовые функции.",
+   description: "Преобразует все буквы текста в прописные.",
+   intro: ""
+  },
+  {
+   name: "ЗНАЧЕН",
+   url: "https://support.office.com/en-us/article/Функция-ЗНАЧЕН-257d0108-07dc-437d-ae1c-bc2d3953d8c2",
+   category: "Текстовые функции.",
+   description: "Преобразует текстовый аргумент в число.",
+   intro: ""
+  },
+  {
+   name: "ДИСП",
+   url: "https://support.office.com/en-us/article/Функция-ДИСП-1f2b7ab2-954d-4e17-ba2c-9e58b15a7da2",
+   category: "Функции совместимости.",
+   description: "Оценивает дисперсию по выборке.",
+   intro: ""
+  },
+  {
+   name: "ДИСП.Г",
+   url: "https://support.office.com/en-us/article/ДИСПГ-73d1285c-108c-4843-ba5d-a51f90656f3a",
+   category: "Статистические функции.",
+   description: "Вычисляет дисперсию по генеральной совокупности.",
+   intro: "2010"
+  },
+  {
+   name: "ДИСП.В",
+   url: "https://support.office.com/en-us/article/ДИСПВ-913633de-136b-449d-813e-65a00b2b990b",
+   category: "Статистические функции.",
+   description: "Оценивает дисперсию по выборке.",
+   intro: "2010"
+  },
+  {
+   name: "ДИСПА",
+   url: "https://support.office.com/en-us/article/Функция-ДИСПА-3de77469-fa3a-47b4-85fd-81758a1e1d07",
+   category: "Статистические функции.",
+   description: "Оценивает дисперсию по выборке, включая числа, текст и логические значения.",
+   intro: ""
+  },
+  {
+   name: "ДИСПР",
+   url: "https://support.office.com/en-us/article/Функция-ДИСПР-26a541c4-ecee-464d-a731-bd4c575b1a6b",
+   category: "Функции совместимости.",
+   description: "Вычисляет дисперсию по генеральной совокупности.",
+   intro: ""
+  },
+  {
+   name: "ДИСПРА",
+   url: "https://support.office.com/en-us/article/Функция-ДИСПРА-59a62635-4e89-4fad-88ac-ce4dc0513b96",
+   category: "Статистические функции.",
+   description: "Вычисляет дисперсию для генеральной совокупности, включая числа, текст и логические значения.",
+   intro: ""
+  },
+  {
+   name: "ПУО",
+   url: "https://support.office.com/en-us/article/Функция-ПУО-dde4e207-f3fa-488d-91d2-66d55e861d73",
+   category: "Финансовые функции.",
+   description: "Возвращает величину амортизации актива для указанного или частичного периода при использовании метода сокращающегося баланса.",
+   intro: ""
+  },
+  {
+   name: "ВПР",
+   url: "https://support.office.com/en-us/article/Функция-ВПР-0bbc8083-26fe-4963-8ab8-93a18ad188a1",
+   category: "Функции поиска и работы со ссылками.",
+   description: "Ищет значение в первом столбце массива и возвращает значение из ячейки в найденной строке и указанном столбце.",
+   intro: ""
+  },
+  {
+   name: "ВЕБСЛУЖБА",
+   url: "https://support.office.com/en-us/article/ВЕБСЛУЖБА-0546a35a-ecc6-4739-aed7-c0b7ce1562c4",
+   category: "Функция веб-адреса.",
+   description: "Возвращает данные из веб-службы.",
+   intro: "2013"
+  },
+  {
+   name: "ДЕНЬНЕД",
+   url: "https://support.office.com/en-us/article/Функция-ДЕНЬНЕД-60e44483-2ed1-439f-8bd0-e404c190949a",
+   category: "Функции даты и времени.",
+   description: "Преобразует дату в числовом формате в день недели.",
+   intro: ""
+  },
+  {
+   name: "НОМНЕДЕЛИ",
+   url: "https://support.office.com/en-us/article/Функция-НОМНЕДЕЛИ-e5c43a03-b4ab-426c-b411-b18c13c75340",
+   category: "Функции даты и времени.",
+   description: "Преобразует дату в числовом формате в число, которое указывает, на какую неделю года приходится дата.",
+   intro: ""
+  },
+  {
+   name: "ВЕЙБУЛЛ",
+   url: "https://support.office.com/en-us/article/Функция-ВЕЙБУЛЛ-b83dc2c6-260b-4754-bef2-633196f6fdcc",
+   category: "Функции совместимости.",
+   description: "Вычисляет дисперсию для генеральной совокупности, включая числа, текст и логические значения.",
+   intro: ""
+  },
+  {
+   name: "ВЕЙБУЛЛ.РАСП",
+   url: "https://support.office.com/en-us/article/ВЕЙБУЛЛРАСП-4e783c39-9325-49be-bbc9-a83ef82b45db",
+   category: "Статистические функции.",
+   description: "Возвращает распределение Вейбулла.",
+   intro: "2010"
+  },
+  {
+   name: "РАБДЕНЬ",
+   url: "https://support.office.com/en-us/article/Функция-РАБДЕНЬ-f764a5b7-05fc-4494-9486-60d494efbf33",
+   category: "Функции даты и времени.",
+   description: "Возвращает дату в числовом формате, отстоящую вперед или назад на заданное количество рабочих дней.",
+   intro: ""
+  },
+  {
+   name: "РАБДЕНЬ.МЕЖД",
+   url: "https://support.office.com/en-us/article/РАБДЕНЬМЕЖД-a378391c-9ba7-4678-8a39-39611a9bf81d",
+   category: "Функции даты и времени.",
+   description: "Возвращает числовое значение даты, предшествующей заданному количеству рабочих дней или следующей за ними, руководствуясь при этом параметрами, указывающими выходные дни и их количество.",
+   intro: "2010"
+  },
+  {
+   name: "ЧИСТВНДОХ",
+   url: "https://support.office.com/en-us/article/Функция-ЧИСТВНДОХ-de1242ec-6477-445b-b11b-a303ad9adc9d",
+   category: "Финансовые функции.",
+   description: "Возвращает внутреннюю ставку доходности для графика денежных потоков, не обязательно носящих периодический характер.",
+   intro: ""
+  },
+  {
+   name: "ЧИСТНЗ",
+   url: "https://support.office.com/en-us/article/Функция-ЧИСТНЗ-1b42bbf6-370f-4532-a0eb-d67c16b664b7",
+   category: "Финансовые функции.",
+   description: "Возвращает чистую приведенную стоимость для денежных потоков, не обязательно носящих периодический характер.",
+   intro: ""
+  },
+  {
+   name: "ИСКЛИЛИ",
+   url: "https://support.office.com/en-us/article/ИСКЛИЛИ-1548d4c2-5e47-4f77-9a92-0533bba14f37",
+   category: "Логические функции.",
+   description: "Возвращает логическое исключающее ИЛИ всех аргументов.",
+   intro: "2013"
+  },
+  {
+   name: "ГОД",
+   url: "https://support.office.com/en-us/article/Функция-ГОД-c64f017a-1354-490d-981f-578e8ec8d3b9",
+   category: "Функции даты и времени.",
+   description: "Преобразует дату в числовом формате в год.",
+   intro: ""
+  },
+  {
+   name: "ДОЛЯГОДА",
+   url: "https://support.office.com/en-us/article/Функция-ДОЛЯГОДА-3844141e-c76d-4143-82b6-208454ddc6a8",
+   category: "Функции даты и времени.",
+   description: "Возвращает долю года, которую составляет количество дней между начальной и конечной датами.",
+   intro: ""
+  },
+  {
+   name: "ДОХОД",
+   url: "https://support.office.com/en-us/article/Функция-ДОХОД-f5f5ca43-c4bd-434f-8bd2-ed3c9727a4fe",
+   category: "Финансовые функции.",
+   description: "Возвращает доходность ценных бумаг с периодической выплатой процентов.",
+   intro: ""
+  },
+  {
+   name: "ДОХОДСКИДКА",
+   url: "https://support.office.com/en-us/article/Функция-ДОХОДСКИДКА-a9dbdbae-7dae-46de-b995-615faffaaed7",
+   category: "Финансовые функции.",
+   description: "Возвращает годовую доходность ценных бумаг, на которые сделана скидка (например, по казначейским векселям).",
+   intro: ""
+  },
+  {
+   name: "ДОХОДПОГАШ",
+   url: "https://support.office.com/en-us/article/Функция-ДОХОДПОГАШ-ba7d1809-0d33-4bcb-96c7-6c56ec62ef6f",
+   category: "Финансовые функции.",
+   description: "Возвращает годовую доходность ценных бумаг с выплатой процентов в строк погашения.",
+   intro: ""
+  },
+  {
+   name: "Z.ТЕСТ",
+   url: "https://support.office.com/en-us/article/ZТЕСТ-d633d5a3-2031-4614-a016-92180ad82bee",
+   category: "Статистические функции.",
+   description: "Возвращает одностороннее значение вероятности z-теста.",
+   intro: "2010"
+  },
+  {
+   name: "ZТЕСТ",
+   url: "https://support.office.com/en-us/article/Функция-ZТЕСТ-8f33be8a-6bd6-4ecc-8e3a-d9a4420c4a6a",
+   category: "Функции совместимости.",
+   description: "Возвращает одностороннее значение вероятности z-теста.",
+   intro: ""
+  }
+ ]
+}
