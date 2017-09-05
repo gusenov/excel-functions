@@ -61,7 +61,7 @@
         item = "  {\n   \"name\": " 
          + (functionName.startsWith("Функция ") ? "\"" + functionName.slice(8, functionName.length) + "\"" :
             (functionName.startsWith("Функции") ? "[\"" + functionName.slice(8, functionName.length).split(", ").join("\", \"") + "\"]" : "\"" + functionName + "\""))
-         + ",\n   \"url\": \"https://support.office.com/en-us/article/" 
+         + ",\n   \"url\": \"https://support.office.com/ru-ru/article/" 
          + functionLink + "\",\n"
          + "   \"category\": \"" + (categoryLastChar === ':' ? category.slice(0, -1) : category) + "\",\n"
          + "   \"description\": \"" + description.trim() + "\",\n"

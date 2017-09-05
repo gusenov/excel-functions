@@ -17,8 +17,8 @@ foo_count=$(jq --raw-output ".functions | length" $en_json)
 output_file=README.md
 rm $output_file
 
-echo "| Function name | Функция | Category | Категория | Type and description | Тип и описание | Маркер версии |" >> $output_file
-echo "| ------------- | ------- | -------- | --------- | -------------------- | -------------- | ------------- |" >> $output_file
+echo "| № | Function name | Функция | Category | Категория | Type and description | Тип и описание | Маркер версии |" >> $output_file
+echo "| - | ------------- | ------- | -------- | --------- | -------------------- | -------------- | ------------- |" >> $output_file
 
 for (( idx=0; idx<$foo_count; idx++ ))
 do
@@ -31,6 +31,6 @@ do
  description_en=$(getValue $idx "description" $en_json)
  description_ru=$(getValue $idx "description" $ru_json)
  intro_en=$(getValue $idx "intro" $en_json)
- echo "| [$name_en]($url_en) | [$name_ru]($url_ru) | $category_en | $category_ru | $description_en | $description_ru | $intro_en |" >> $output_file
+ echo "| $((1 + idx)) | [$name_en]($url_en) | [$name_ru]($url_ru) | $category_en | $category_ru | $description_en | $description_ru | $intro_en |" >> $output_file
  echo "$((1 + idx)) of $foo_count"
 done
